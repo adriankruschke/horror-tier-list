@@ -1,0 +1,24 @@
+---
+interface Props {
+  awards: { label: string; value: string }[];
+  year: number;
+}
+const { awards, year } = Astro.props;
+---
+
+<section class="awards" aria-labelledby="awards-h">
+  <div class="awards__paper">
+    <p class="awards__stamp" aria-hidden="true">Awarded</p>
+    <h2 id="awards-h" class="awards__h">Special commendations, {year}</h2>
+    <dl>
+      {
+        awards.map((a) => (
+          <div class="awards__row">
+            <dt>{a.label}</dt>
+            <dd>{a.value}</dd>
+          </div>
+        ))
+      }
+    </dl>
+  </div>
+</section>

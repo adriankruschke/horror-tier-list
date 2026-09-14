@@ -1,0 +1,46 @@
+---
+import { TIERS, poster, type Film } from '../lib/site';
+
+interface Props {
+  films: Film[];
+}
+const { films } = Astro.props;
+---
+
+<section class="board" aria-label="Tier list">
+  {
+    TIERS.map((t) => {
+      const inTier = films.filter((f) => f.tier === t.key);
+      return (
+        <div class={`tier tier--${t.key}`}>
+          <div class="tier__label">
+            <span class="tier__letter">{t.key}</span>
+            <span class="tier__word">{t.word}</span>
+          </div>
+          <ul class="tier__row">
+            {inTier.map((f) => (
+              <li>
+                <button class="tape" type="button" data-film={f.key} aria-haspopup="dialog">
+                  {f.imdb?.image ? (
+                    <img
+                      class="tape__img"
+                      src={poster(f.imdb.image.url, 200)}
+                      alt=""
+                      width="100"
+                      height="150"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  ) : (
+                    <span class="tape__img tape__img--blank">{f.title}</span>
+                  )}
+                  <span class="tape__title">{f.title}</span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        </div>
+      );
+    })
+  }
+</section>

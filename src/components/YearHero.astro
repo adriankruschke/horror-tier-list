@@ -1,0 +1,49 @@
+---
+import { TIERS, hoursMinutes, totalRuntime, type Year } from '../lib/site';
+
+interface Props {
+  data: Year;
+  inProgress?: boolean;
+}
+const { data, inProgress = false } = Astro.props;
+const rated = data.films.filter((f) => f.tier);
+const counts = TIERS.map((t) => ({ ...t, n: rated.filter((f) => f.tier === t.key).length })).filter((t) => t.n);
+const runtime = totalRuntime(inProgress ? rated : data.films);
+const remaining = inProgress ? totalRuntime(data.films.filter((f) => !f.tier)) : 0;
+---
+
+<section class="hero">
+  <p class="osd">
+    <span class="osd__play">{inProgress ? '● REC' : '▶ PLAY'}</span>
+    <span>TAPE {data.year}</span>
+    <span>{inProgress ? `${rated.length}/${data.films.length} WATCHED` : `${rated.length} TITLES`}</span>
+    {runtime > 0 && <span>{hoursMinutes(runtime)} OF SCREAMING</span>}
+    {remaining > 0 && <span>{hoursMinutes(remaining)} LEFT IN THE PILE</span>}
+  </p>
+
+  <h1 class="hero__year" data-text={data.year}>{data.year}</h1>
+
+  <p class="stamp" aria-hidden="true">
+    {inProgress ? 'Still rolling' : `${rated.length} survived`}
+  </p>
+
+  {
+    counts.length > 0 && (
+      <div class="spread" role="img" aria-label={counts.map((c) => `${c.n} ${c.word}`).join(', ')}>
+        <div class="spread__bar">
+          {counts.map((c) => (
+            <span class={`spread__seg tier-bg--${c.key}`} style={`flex-grow:${c.n}`} />
+          ))}
+        </div>
+        <ul class="spread__legend">
+          {counts.map((c) => (
+            <li>
+              <i class={`tier-bg--${c.key}`} />
+              {c.key} <b>{c.n}</b>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )
+  }
+</section>

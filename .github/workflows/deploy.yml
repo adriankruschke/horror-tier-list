@@ -1,0 +1,71 @@
+name: Sync sheet & deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Every 2 hours — picks up new ratings from the Google Sheet
+    - cron: '23 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      refresh_imdb:
+        description: Re-fetch IMDb details for every title
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      deploy: ${{ steps.commit.outputs.changed == 'true' || github.event_name != 'schedule' }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Sync Google Sheet + IMDb
+        run: npm run sync -- ${{ inputs.refresh_imdb && '--refresh' || '' }}
+
+      - name: Commit data changes
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Sync ratings from Google Sheet"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - run: npm run build
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    if: needs.build.outputs.deploy == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: https://adriankruschke.github.io/horror-tier-list/
+    steps:
+      - uses: actions/deploy-pages@v4

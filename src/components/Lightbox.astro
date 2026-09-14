@@ -1,0 +1,176 @@
+<dialog class="case" id="case" aria-labelledby="case-title">
+  <div class="case__inner">
+    <div class="case__strip">
+      <span class="case__rec">● REC</span>
+      <span class="case__file" data-f="file"></span>
+      <button class="case__eject" type="button" data-close>[ Eject ]</button>
+    </div>
+
+    <div class="case__body">
+      <div class="case__sleeve">
+        <img class="case__poster" data-f="poster" alt="" />
+        <div class="case__stamp" data-f="stamp" hidden>
+          <span data-f="stamp-letter"></span>
+          <small data-f="stamp-word"></small>
+        </div>
+      </div>
+
+      <div class="case__info">
+        <h2 class="case__title" id="case-title" data-f="title"></h2>
+        <p class="case__meta" data-f="meta"></p>
+        <p class="case__genres" data-f="genres"></p>
+        <p class="case__plot" data-f="plot"></p>
+
+        <dl class="case__credits" data-f="credits"></dl>
+
+        <p class="case__note" data-f="note" hidden></p>
+
+        <div class="case__tape" data-f="tape"></div>
+
+        <p class="case__links"><a data-f="imdb" target="_blank" rel="noopener">Open on IMDb ↗</a></p>
+      </div>
+    </div>
+  </div>
+</dialog>
+
+<script>
+  type FilmPayload = {
+    title: string;
+    sheetName: string;
+    tier: string | null;
+    tierWord: string | null;
+    streaming: string | null;
+    runtime: number | null;
+    watchedOn: string | null;
+    notes: string | null;
+    id: string | null;
+    year: number | null;
+    rating: number | null;
+    votes: number | null;
+    certificate: string | null;
+    plot: string | null;
+    genres: string[];
+    directors: string[];
+    stars: string[];
+    poster: string | null;
+    trailer: { id: string; name: string } | null;
+  };
+
+  const dialog = document.getElementById('case') as HTMLDialogElement;
+  const raw = document.getElementById('film-data')?.textContent || '{}';
+  const films: Record<string, FilmPayload> = JSON.parse(raw);
+  const f = (name: string) => dialog.querySelector(`[data-f="${name}"]`) as HTMLElement;
+
+  const el = (tag: string, text?: string, cls?: string) => {
+    const node = document.createElement(tag);
+    if (text != null) node.textContent = text;
+    if (cls) node.className = cls;
+    return node;
+  };
+
+  function renderTape(film: FilmPayload) {
+    const tape = f('tape');
+    tape.replaceChildren();
+    if (film.trailer) {
+      const btn = el('button', `▶ Play — ${film.trailer.name}`, 'case__play') as HTMLButtonElement;
+      btn.type = 'button';
+      btn.addEventListener('click', () => {
+        const frame = document.createElement('iframe');
+        frame.src = `https://www.imdb.com/video/embed/${film.trailer!.id}/`;
+        frame.title = `${film.title} trailer`;
+        frame.allow = 'autoplay; fullscreen; encrypted-media';
+        frame.allowFullscreen = true;
+        tape.replaceChildren(frame);
+        tape.classList.add('is-playing');
+      });
+      tape.append(btn);
+    } else {
+      const a = el('a', '▶ Search for a trailer ↗', 'case__play') as HTMLAnchorElement;
+      a.href = `https://www.youtube.com/results?search_query=${encodeURIComponent(`${film.title} ${film.year ?? ''} trailer`)}`;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      tape.append(a);
+    }
+    tape.classList.remove('is-playing');
+  }
+
+  function open(key: string, push = true) {
+    const film = films[key];
+    if (!film) return;
+
+    dialog.dataset.tier = film.tier ?? 'none';
+    f('file').textContent = film.id ? `FILE ${film.id}` : 'FILE — UNLISTED';
+    f('title').textContent = film.title;
+
+    const poster = f('poster') as HTMLImageElement;
+    poster.hidden = !film.poster;
+    if (film.poster) {
+      poster.src = film.poster;
+      poster.alt = `${film.title} poster`;
+    }
+
+    const stamp = f('stamp');
+    stamp.hidden = !film.tier;
+    f('stamp-letter').textContent = film.tier ?? '';
+    f('stamp-word').textContent = film.tierWord ?? '';
+
+    const meta = [
+      film.year,
+      film.runtime ? `${film.runtime} min` : null,
+      film.certificate,
+      film.rating ? `IMDb ${film.rating.toFixed(1)}/10` : null,
+    ].filter(Boolean);
+    f('meta').textContent = meta.join('  ·  ');
+    f('genres').textContent = film.genres.map((g) => `[${g}]`).join(' ');
+    f('plot').textContent = film.plot ?? 'No synopsis on file. Some tapes are best left unlabeled.';
+
+    const credits = f('credits');
+    credits.replaceChildren();
+    const row = (label: string, value: string | null) => {
+      if (!value) return;
+      credits.append(el('dt', label), el('dd', value));
+    };
+    row('Directed by', film.directors.join(', ') || null);
+    row('Starring', film.stars.join(', ') || null);
+    row('Watched on', film.streaming);
+    row('Date', film.watchedOn);
+    if (film.sheetName.toLowerCase() !== film.title.toLowerCase()) row('Ledger entry', film.sheetName);
+
+    const note = f('note');
+    note.hidden = !film.notes;
+    note.textContent = film.notes ?? '';
+
+    const imdb = f('imdb') as HTMLAnchorElement;
+    imdb.hidden = !film.id;
+    if (film.id) imdb.href = `https://www.imdb.com/title/${film.id}/`;
+
+    renderTape(film);
+    if (!dialog.open) dialog.showModal();
+    if (push) history.replaceState(null, '', `#${key}`);
+  }
+
+  function close() {
+    dialog.close();
+  }
+
+  dialog.addEventListener('close', () => {
+    f('tape').replaceChildren(); // stops any playing trailer
+    if (location.hash) history.replaceState(null, '', location.pathname + location.search);
+  });
+
+  // Click on the backdrop (the dialog element itself, outside the inner panel) closes.
+  dialog.addEventListener('click', (e) => {
+    if (e.target === dialog || (e.target as HTMLElement).closest('[data-close]')) close();
+  });
+
+  document.addEventListener('click', (e) => {
+    const trigger = (e.target as HTMLElement).closest<HTMLElement>('[data-film]');
+    if (trigger) {
+      e.preventDefault();
+      open(trigger.dataset.film!);
+    }
+  });
+
+  const initial = decodeURIComponent(location.hash.slice(1));
+  if (initial && films[initial]) open(initial, false);
+</script>

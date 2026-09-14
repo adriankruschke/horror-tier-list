@@ -1,0 +1,65 @@
+---
+import '../styles/global.css';
+import Lightbox from '../components/Lightbox.astro';
+import { SITE_NAME, years, href } from '../lib/site';
+
+interface Props {
+  title?: string;
+  activeYear?: number;
+  films?: Record<string, unknown>;
+}
+const { title, activeYear, films = {} } = Astro.props;
+const built = new Date().toISOString().slice(0, 10);
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title ? `${title} · ${SITE_NAME}` : SITE_NAME}</title>
+    <meta name="description" content="A yearly horror movie marathon, ranked." />
+    <meta name="theme-color" content="#0b0908" />
+    <meta name="robots" content="noindex, nofollow, noimageindex" />
+    <link rel="icon" href={href('favicon.svg')} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Anton&family=Rubik+Glitch&family=Special+Elite&family=VT323&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+
+    <header class="bar">
+      <a class="logo" href={href()} data-text={SITE_NAME}>{SITE_NAME}</a>
+      <nav class="channels" aria-label="Years">
+        {
+          years.map((y) => (
+            <a
+              class="channel"
+              href={href(`${y.year}/`)}
+              aria-current={y.year === activeYear ? 'page' : undefined}
+            >
+              <span class="channel__ch">CH</span>
+              {y.year}
+            </a>
+          ))
+        }
+      </nav>
+    </header>
+
+    <main class="wrap">
+      <slot />
+    </main>
+
+    <footer class="foot wrap">
+      <span>Film info &amp; trailers: IMDb</span>
+      <span>Rewound {built}</span>
+      <span class="foot__kind">Be kind, rewind</span>
+    </footer>
+
+    <Lightbox />
+    <script type="application/json" id="film-data" set:html={JSON.stringify(films).replace(/</g, '\\u003c')} />
+  </body>
+</html>

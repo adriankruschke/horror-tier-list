@@ -1,0 +1,4465 @@
+{
+  "tt0063350": {
+    "id": "tt0063350",
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "runtime": 96,
+    "rating": 7.8,
+    "votes": 152458,
+    "certificate": "R",
+    "plot": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the Northeast of the United States.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "George A. Romero"
+    ],
+    "stars": [
+      "Duane Jones",
+      "Judith O'Dea",
+      "Karl Hardman",
+      "Marilyn Eastman"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGMyZTA0MWEtZjczMS00ZDE5LTk1OTQtNmIxNGYzNDA2NDVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1968,
+      "height": 2892
+    },
+    "trailer": {
+      "id": "vi2325283097",
+      "name": "Night of the Living Dead"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt0071222": {
+    "id": "tt0071222",
+    "title": "Black Christmas",
+    "year": 1974,
+    "runtime": 98,
+    "rating": 7.1,
+    "votes": 56855,
+    "certificate": "R",
+    "plot": "During their Christmas break, a group of sorority girls are stalked by a stranger.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Bob Clark"
+    ],
+    "stars": [
+      "Olivia Hussey",
+      "Keir Dullea",
+      "Margot Kidder",
+      "John Saxon"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGUyNmY5MGQtN2FjNC00MmY0LTk5NWMtYzZiMGYzNGMxYWEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1489,
+      "height": 2260
+    },
+    "trailer": {
+      "id": "vi2030814489",
+      "name": "Black Christmas: Who Is This?"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt0076162": {
+    "id": "tt0076162",
+    "title": "House",
+    "year": 1977,
+    "runtime": 88,
+    "rating": 7.2,
+    "votes": 40469,
+    "certificate": "Not Rated",
+    "plot": "A schoolgirl and six of her classmates travel to her aunt's country home, which turns out to be haunted.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "directors": [
+      "Nobuhiko Ōbayashi"
+    ],
+    "stars": [
+      "Kimiko Ikegami",
+      "Miki Jinbo",
+      "Kumiko Ôba",
+      "Ai Matsubara"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGI5OGIwOGUtMzM4MC00MTZkLWI0MWMtZDkzNzE2ZjYxYWZlXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi2997729305",
+      "name": "HOUSE [Hausu] (Masters of Cinema) New & Exclusive Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt0077402": {
+    "id": "tt0077402",
+    "title": "Dawn of the Dead",
+    "year": 1978,
+    "runtime": 127,
+    "rating": 7.8,
+    "votes": 137582,
+    "certificate": "Unrated",
+    "plot": "During an escalating zombie epidemic, two Philadelphia SWAT team members, a traffic reporter and his TV executive girlfriend seek refuge in a secluded shopping mall.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "George A. Romero"
+    ],
+    "stars": [
+      "David Emge",
+      "Ken Foree",
+      "Scott H. Reiniger",
+      "Gaylen Ross"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmVkMmU4ZjItY2FiYS00MmRhLWIzNmYtODMwODFmZGY4ZjNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 478,
+      "height": 744
+    },
+    "trailer": {
+      "id": "vi215942681",
+      "name": "Dawn of the Dead (1978)"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt0078935": {
+    "id": "tt0078935",
+    "title": "Cannibal Holocaust",
+    "year": 1980,
+    "runtime": 95,
+    "rating": 5.7,
+    "votes": 67910,
+    "certificate": "Unrated",
+    "plot": "An anthropologist ventures into the Amazon rainforest on a rescue mission, where he recovers footage shot by a film crew documenting their disastrous encounters with local cannibal tribes.",
+    "genres": [
+      "Adventure",
+      "Horror"
+    ],
+    "directors": [
+      "Ruggero Deodato"
+    ],
+    "stars": [
+      "Robert Kerman",
+      "Francesca Ciardi",
+      "Perry Pirkanen",
+      "Luca Barbareschi"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWI4YWFkYmEtNTU4ZS00MjhkLTg0NTUtNWI4NDMxNTg2ZjEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1972,
+      "height": 2865
+    },
+    "trailer": {
+      "id": "vi2307431961",
+      "name": "Cannibal Holocaust"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt0079714": {
+    "id": "tt0079714",
+    "title": "Phantasm",
+    "year": 1979,
+    "runtime": 89,
+    "rating": 6.6,
+    "votes": 45511,
+    "certificate": "R",
+    "plot": "Newly orphaned teenager Mike Pearson, his older brother Jody, and their friends face off against a mysterious grave robber known as the Tall Man, who employs a lethal arsenal of unearthly weapons in their southern California town.",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Don Coscarelli"
+    ],
+    "stars": [
+      "A. Michael Baldwin",
+      "Bill Thornbury",
+      "Reggie Bannister",
+      "Kathy Lester"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDNhNzUwOWQtMmU2Yi00YTRiLWIxZjUtYzYyYmYyYjlkZTgzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1931,
+      "height": 2950
+    },
+    "trailer": {
+      "id": "vi3073817113",
+      "name": "Phantasm"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt0080761": {
+    "id": "tt0080761",
+    "title": "Friday the 13th",
+    "year": 1980,
+    "runtime": 95,
+    "rating": 6.4,
+    "votes": 177093,
+    "certificate": "R",
+    "plot": "A group of teenage camp counselors attempt to re-open an abandoned summer camp with a tragic past, but they are stalked by a mysterious, relentless killer.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Sean S. Cunningham"
+    ],
+    "stars": [
+      "Betsy Palmer",
+      "Adrienne King",
+      "Jeannine Taylor",
+      "Robbi Morgan"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjEwOTY5MjMtMTkzMi00Zjk1LThkM2QtZGZhMzQ3MzI3NDNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1780,
+      "height": 2670
+    },
+    "trailer": {
+      "id": "vi3229400601",
+      "name": "Bloody Beginnings of the Summer Camp Slasher"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt0081505": {
+    "id": "tt0081505",
+    "title": "The Shining",
+    "year": 1980,
+    "runtime": 146,
+    "rating": 8.4,
+    "votes": 1243102,
+    "certificate": "R",
+    "plot": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "stars": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd",
+      "Scatman Crothers"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 627,
+      "height": 953
+    },
+    "trailer": {
+      "id": "vi2689121305",
+      "name": "The Shining"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt0082418": {
+    "id": "tt0082418",
+    "title": "Friday the 13th: Part 2",
+    "year": 1981,
+    "runtime": 87,
+    "rating": 6.1,
+    "votes": 88769,
+    "certificate": "R",
+    "plot": "Five years after the events of the first film, a summer camp next to the infamous Camp Crystal Lake is preparing to open, but the legend of Jason is weighing heavy on the proceedings.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Steve Miner"
+    ],
+    "stars": [
+      "Betsy Palmer",
+      "Amy Steel",
+      "John Furey",
+      "Adrienne King"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjBkMGM2MDAtMjUwYS00ZjVlLWEzNGItZDJmOTA2YmE2NjRhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1746,
+      "height": 2645
+    },
+    "trailer": {
+      "id": "vi1035714841",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt0082495": {
+    "id": "tt0082495",
+    "title": "Halloween II",
+    "year": 1981,
+    "runtime": 92,
+    "rating": 6.5,
+    "votes": 113412,
+    "certificate": "R",
+    "plot": "While Dr. Loomis hunts for Michael Myers, a traumatized Laurie is rushed to Haddonfield Memorial Hospital, and The Shape is not far behind her.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Rick Rosenthal"
+    ],
+    "stars": [
+      "Jamie Lee Curtis",
+      "Donald Pleasence",
+      "Charles Cyphers",
+      "Jeffrey Kramer"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2M5ZGEwZjItODgwOC00OWM3LTliYmQtNzlmY2NmODE1MzAwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1932,
+      "height": 3005
+    },
+    "trailer": {
+      "id": "vi1191948569",
+      "name": "Halloween II"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt0082933": {
+    "id": "tt0082933",
+    "title": "Possession",
+    "year": 1981,
+    "runtime": 124,
+    "rating": 7.2,
+    "votes": 60319,
+    "certificate": "R",
+    "plot": "A woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister.",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "directors": [
+      "Andrzej Żuławski"
+    ],
+    "stars": [
+      "Isabelle Adjani",
+      "Sam Neill",
+      "Margit Carstensen",
+      "Heinz Bennent"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTAzNjczNmItMGJkMS00YzVhLTg4NzEtOGQyYWUzNDA0ZmNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi3084305689",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt0083624": {
+    "id": "tt0083624",
+    "title": "Basket Case",
+    "year": 1981,
+    "runtime": 91,
+    "rating": 6.2,
+    "votes": 24415,
+    "certificate": "R",
+    "plot": "A young man carrying a big basket that contains his extremely deformed, formerly conjoined twin brother seeks vengeance on the doctors who separated them against their will.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "directors": [
+      "Frank Henenlotter"
+    ],
+    "stars": [
+      "Kevin VanHentenryck",
+      "Terri Susan Smith",
+      "Beverly Bonner",
+      "Robert Vogel"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGIwNTA1NjktZmUxNi00NGMzLTg5M2QtMzA2MzkxZGY4MWM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1802,
+      "height": 2785
+    },
+    "trailer": {
+      "id": "vi3773808921",
+      "name": "Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt0084516": {
+    "id": "tt0084516",
+    "title": "Poltergeist",
+    "year": 1982,
+    "runtime": 114,
+    "rating": 7.3,
+    "votes": 196930,
+    "certificate": "PG",
+    "plot": "A family's home becomes the center of paranormal activity that opens a doorway to the \"other side.\" With help, they must cross over to get their daughter back.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Tobe Hooper"
+    ],
+    "stars": [
+      "JoBeth Williams",
+      "Heather O'Rourke",
+      "Craig T. Nelson",
+      "Beatrice Straight"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzY4MGZkYjgtYTQ2YS00YTlhLWEyMjAtMjZhYzczNTRlM2ZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1833,
+      "height": 2714
+    },
+    "trailer": {
+      "id": "vi3557933593",
+      "name": "Trailer "
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt0084695": {
+    "id": "tt0084695",
+    "title": "The Slumber Party Massacre",
+    "year": 1982,
+    "runtime": 77,
+    "rating": 5.6,
+    "votes": 21640,
+    "certificate": "R",
+    "plot": "A female high school student's slumber party turns into a bloodbath, as a newly escaped psychotic serial killer wielding a power drill prowls her neighborhood.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Amy Holden Jones"
+    ],
+    "stars": [
+      "Michele Michaels",
+      "Robin Stille",
+      "Michael Villella",
+      "Debra De Liso"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTFiMjE4YWYtM2RiNS00NDgwLWFhZDUtOWZjNjkwNjBkOTRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1992,
+      "height": 2964
+    },
+    "trailer": {
+      "id": "vi1293791513",
+      "name": "The Slumber Party Massacre: The Slumber Party Massacre Collection"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt0084787": {
+    "id": "tt0084787",
+    "title": "The Thing",
+    "year": 1982,
+    "runtime": 109,
+    "rating": 8.2,
+    "votes": 535213,
+    "certificate": "R",
+    "plot": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "John Carpenter"
+    ],
+    "stars": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David",
+      "Richard Masur"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 1200
+    },
+    "trailer": {
+      "id": "vi2298151193",
+      "name": "The Thing"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt0086541": {
+    "id": "tt0086541",
+    "title": "Videodrome",
+    "year": 1983,
+    "runtime": 87,
+    "rating": 7.2,
+    "votes": 114696,
+    "certificate": "R",
+    "plot": "A Toronto cable TV station co-owner who specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast titled \"Videodrome.\"",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "David Cronenberg"
+    ],
+    "stars": [
+      "James Woods",
+      "Debbie Harry",
+      "Sonja Smits",
+      "Peter Dvorsky"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTI0NDVlMjMtNWI5Yi00ZWM0LTg4NWUtNGRkYjU5NTBkZjVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 1800
+    },
+    "trailer": {
+      "id": "vi2063270169",
+      "name": "Videodrome"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt0087363": {
+    "id": "tt0087363",
+    "title": "Gremlins",
+    "year": 1984,
+    "runtime": 106,
+    "rating": 7.3,
+    "votes": 277465,
+    "certificate": "PG",
+    "plot": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "directors": [
+      "Joe Dante"
+    ],
+    "stars": [
+      "Zach Galligan",
+      "Phoebe Cates",
+      "Hoyt Axton",
+      "John Louie"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmMzMmIxNzYtYjk3OS00NjBiLTkxNDQtODU3ZDNjN2RiMTIxXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi2626338585",
+      "name": "Gremlins"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt0087622": {
+    "id": "tt0087622",
+    "title": "The Lift",
+    "year": 1983,
+    "runtime": 95,
+    "rating": 6.1,
+    "votes": 8762,
+    "certificate": "R",
+    "plot": "A lift technician finds himself drawn into a web of mystery and peril as he investigates the perplexing deadly accidents occurring in the elevators of a new office building.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Dick Maas"
+    ],
+    "stars": [
+      "Huub Stapel",
+      "Willeke van Ammelrooy",
+      "Josine van Dalsum",
+      "Liz Snoijink"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGJhZTliNzktYzFhOC00NGEzLWI3Y2MtZWFjMzk4YzY0YzIzXkEyXkFqcGc@._V1_.jpg",
+      "width": 615,
+      "height": 883
+    },
+    "trailer": {
+      "id": "vi1876149529",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt0089686": {
+    "id": "tt0089686",
+    "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+    "year": 1985,
+    "runtime": 87,
+    "rating": 5.5,
+    "votes": 87285,
+    "certificate": "R",
+    "plot": "A teenage boy is haunted in his dreams by deceased child murderer Freddy Krueger, who is out to possess him in order to continue his reign of terror in the real world.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Jack Sholder"
+    ],
+    "stars": [
+      "Robert Englund",
+      "Mark Patton",
+      "Kim Myers",
+      "Robert Rusler"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzA0OTk4OWQtYWZlYy00Y2M4LWFmNzctZmU4OWVkMTI1NjJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 567,
+      "height": 848
+    },
+    "trailer": {
+      "id": "vi2947809561",
+      "name": "A Nightmare on Elm Street 2: Freddys Revenge"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt0090837": {
+    "id": "tt0090837",
+    "title": "Chopping Mall",
+    "year": 1986,
+    "runtime": 77,
+    "rating": 5.6,
+    "votes": 20547,
+    "certificate": "R",
+    "plot": "A group of young shopping mall employees stay behind for a late night party in one of the stores. When the mall goes on lock-down before they can get out, the robot security system malfunctions, and goes on a killing spree.",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Jim Wynorski"
+    ],
+    "stars": [
+      "Kelli Maroney",
+      "Tony O'Dell",
+      "Russell Todd",
+      "Karrie Emerson"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2JlNDAwZTktMjhlZi00ZmQzLWFlZTAtYzc4MzU2ODhiYTA5XkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 2963
+    },
+    "trailer": {
+      "id": "vi121748505",
+      "name": "Chopping Mall"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt0093177": {
+    "id": "tt0093177",
+    "title": "Hellraiser",
+    "year": 1987,
+    "runtime": 94,
+    "rating": 6.9,
+    "votes": 155842,
+    "certificate": "R",
+    "plot": "A woman discovers the newly resurrected, partially formed, body of her brother-in-law and lover. She starts killing for him to revitalize his body and escape the demonic beings that are pursuing him after he escaped their underworld.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Clive Barker"
+    ],
+    "stars": [
+      "Andrew Robinson",
+      "Clare Higgins",
+      "Ashley Laurence",
+      "Sean Chapman"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGI4MzkzNzQtYjA3MC00ZjE1LWI0NWUtMDdjNWQ3OTgxZTkwXkEyXkFqcGc@._V1_.jpg",
+      "width": 640,
+      "height": 960
+    },
+    "trailer": {
+      "id": "vi373279001",
+      "name": "Hellraiser"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt0093437": {
+    "id": "tt0093437",
+    "title": "The Lost Boys",
+    "year": 1987,
+    "runtime": 97,
+    "rating": 7.2,
+    "votes": 180242,
+    "certificate": "R",
+    "plot": "When a recently divorced mother and her two teenage boys move to a coastal town to stay with her father, it doesn't take long for the brothers to realize the area is a haven for something much more sinister than party-going surfers.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "directors": [
+      "Joel Schumacher"
+    ],
+    "stars": [
+      "Jason Patric",
+      "Corey Haim",
+      "Dianne Wiest",
+      "Barnard Hughes"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc4NzljMDQtMWYxMS00ZDIxLTkwY2ItMjZhMzIzNjQ4NDNkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1025,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi2012217625",
+      "name": "The Lost Boys"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt0094862": {
+    "id": "tt0094862",
+    "title": "Child's Play",
+    "year": 1988,
+    "runtime": 87,
+    "rating": 6.7,
+    "votes": 133932,
+    "certificate": "R",
+    "plot": "A dying serial killer transfers his consciousness into a popular kids doll using voodoo. A struggling single mother gifts her six-year-old son the much sought-after doll for his birthday, and the doll slowly begins to show its true colors.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Tom Holland"
+    ],
+    "stars": [
+      "Catherine Hicks",
+      "Chris Sarandon",
+      "Alex Vincent",
+      "Brad Dourif"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTc2M2FjMDMtYzBmNS00ODMxLWJjOTYtZmNkMDYxMTU5ZTBhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2030,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi3092038425",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt0095863": {
+    "id": "tt0095863",
+    "title": "Phantasm II",
+    "year": 1988,
+    "runtime": 97,
+    "rating": 6.4,
+    "votes": 18290,
+    "certificate": "R",
+    "plot": "Mike, now released from a psychiatric hospital, meets with Reggie, and discover his dreams (the events of the original film) are real, and they both journey to find and stop the evil Tall Man from his grim work.",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Don Coscarelli"
+    ],
+    "stars": [
+      "James Le Gros",
+      "Reggie Bannister",
+      "Angus Scrimm",
+      "Paula Irvine"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWIxM2U2ZWMtNjU4OC00Mzc3LWI2MjYtNTc5OWE4YmJlOWUzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2896,
+      "height": 4394
+    },
+    "trailer": {
+      "id": "vi3419645465",
+      "name": "Phantasm II"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt0096251": {
+    "id": "tt0096251",
+    "title": "Tetsuo: The Iron Man",
+    "year": 1989,
+    "runtime": 67,
+    "rating": 6.9,
+    "votes": 29520,
+    "certificate": "Not Rated",
+    "plot": "A businessman accidentally kills The Metal Fetishist, who gets his revenge by slowly turning the man into a grotesque hybrid of flesh and rusty metal.",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Shin'ya Tsukamoto"
+    ],
+    "stars": [
+      "Tomoroo Taguchi",
+      "Kei Fujiwara",
+      "Nobu Kanaoka",
+      "Shin'ya Tsukamoto"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2YwM2EyZDMtZTdhYi00NDg1LTgxYWItNWU2NDdiY2JiZGJjXkEyXkFqcGc@._V1_.jpg",
+      "width": 513,
+      "height": 727
+    },
+    "trailer": null,
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt0099871": {
+    "id": "tt0099871",
+    "title": "Jacob's Ladder",
+    "year": 1990,
+    "runtime": 113,
+    "rating": 7.4,
+    "votes": 130944,
+    "certificate": "R",
+    "plot": "Reminiscing about his dead son, a Vietnam War veteran attempts to uncover his past while suffering from a severe case of dissociation. To do so, he must decipher reality and life from his own dreams, delusions, and perceptions of death.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Adrian Lyne"
+    ],
+    "stars": [
+      "Tim Robbins",
+      "Elizabeth Peña",
+      "Danny Aiello",
+      "Matt Craven"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjUwMTU2ODgxOF5BMl5BanBnXkFtZTgwMjU1NTk4NjE@._V1_.jpg",
+      "width": 1017,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi2761031961",
+      "name": "Jacob's Ladder"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt0101420": {
+    "id": "tt0101420",
+    "title": "Begotten",
+    "year": 1989,
+    "runtime": 72,
+    "rating": 5.5,
+    "votes": 12917,
+    "certificate": "Unrated",
+    "plot": "Presented in a surreal, gory and entirely visual manner, Begotten tells of the death of religion, the abuse of nature by Man and a nihilistic outlook on what life ultimately is.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "directors": [
+      "E. Elias Merhige"
+    ],
+    "stars": [
+      "Brian Salzberg",
+      "Donna Dempsey",
+      "Stephen Charles Barry",
+      "James Gandia"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmJkZjZjMzctZGVlOS00NDI1LWEzMjctMjk2Nzc1Nzk5NmZkXkEyXkFqcGc@._V1_.jpg",
+      "width": 2025,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi3354378521",
+      "name": "Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt0105643": {
+    "id": "tt0105643",
+    "title": "Troll 2",
+    "year": 1990,
+    "runtime": 95,
+    "rating": 3,
+    "votes": 36677,
+    "certificate": "PG-13",
+    "plot": "A vacationing family discovers that the entire town they're visiting is inhabited by goblins, disguised as humans, who plan to eat them.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "directors": [
+      "Claudio Fragasso"
+    ],
+    "stars": [
+      "Michael Paul Stephenson",
+      "George Hardy",
+      "Margo Prey",
+      "Connie Young"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzJkY2E0ZjEtYjQ4Yy00MmI3LWFhMGItZjllNmJhM2Y5NTBkXkEyXkFqcGc@._V1_.jpg",
+      "width": 500,
+      "height": 741
+    },
+    "trailer": {
+      "id": "vi1482201369",
+      "name": "Troll 2: The 20th Anniversary Nilbog Edition"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt0363547": {
+    "id": "tt0363547",
+    "title": "Dawn of the Dead",
+    "year": 2004,
+    "runtime": 101,
+    "rating": 7.2,
+    "votes": 290740,
+    "certificate": "R",
+    "plot": "A nurse, a policeman, a young married couple and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies take refuge in a mega Midwestern shopping mall.",
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "directors": [
+      "Zack Snyder"
+    ],
+    "stars": [
+      "Sarah Polley",
+      "Ving Rhames",
+      "Mekhi Phifer",
+      "Jake Weber"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2ZiYjNlMWYtNTc2My00ZTM4LWJhMjQtM2FlOWM0ZmE0Yjg1XkEyXkFqcGc@._V1_.jpg",
+      "width": 786,
+      "height": 1161
+    },
+    "trailer": {
+      "id": "vi1692647449",
+      "name": "A Guide to the Films of Zack Snyder"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt0455760": {
+    "id": "tt0455760",
+    "title": "Dead Silence",
+    "year": 2007,
+    "runtime": 89,
+    "rating": 6.2,
+    "votes": 109747,
+    "certificate": "R",
+    "plot": "After his wife meets a grisly end, Jamie Ashen returns to his haunted hometown of Ravens Fair to find answers. His investigation leads him to the ghost of a ventriloquist named Mary Shaw who seems to have ties to his entire family tree",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "James Wan"
+    ],
+    "stars": [
+      "Ryan Kwanten",
+      "Amber Valletta",
+      "Donnie Wahlberg",
+      "Michael Fairman"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEyNDQwMTQ3OV5BMl5BanBnXkFtZTcwMTY5MzI0MQ@@._V1_.jpg",
+      "width": 450,
+      "height": 667
+    },
+    "trailer": {
+      "id": "vi989775385",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt0464141": {
+    "id": "tt0464141",
+    "title": "The Orphanage",
+    "year": 2007,
+    "runtime": 105,
+    "rating": 7.4,
+    "votes": 171774,
+    "certificate": "R",
+    "plot": "A woman brings her family back to her childhood home, which used to be an orphanage for handicapped children. Before long, her son starts to communicate with an invisible new friend.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "J.A. Bayona"
+    ],
+    "stars": [
+      "Belén Rueda",
+      "Fernando Cayo",
+      "Roger Príncep",
+      "Mabel Rivera"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTE3ZDYxMjctZDJhOC00NDY4LTgwMjYtOTZiNTYwM2Y1N2VhXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 1154
+    },
+    "trailer": {
+      "id": "vi3384654617",
+      "name": "Trailer [OV]"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt0780622": {
+    "id": "tt0780622",
+    "title": "Teeth",
+    "year": 2007,
+    "runtime": 94,
+    "rating": 5.4,
+    "votes": 49887,
+    "certificate": "R",
+    "plot": "Naïve abstinence advocate Dawn O'Keefe discovers a terrifying anatomical mutation within herself after a brutal assault, transforming her from a vulnerable target into a lethal predator against the predatory men in her small town.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Mitchell Lichtenstein"
+    ],
+    "stars": [
+      "Jess Weixler",
+      "John Hensley",
+      "Josh Pais",
+      "Hale Appleman"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWI0OTRjZTctMTY1ZS00YjkxLWFiYjEtYjMxYmUzZDhlNzUyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1968,
+      "height": 2909
+    },
+    "trailer": {
+      "id": "vi3870359833",
+      "name": "U.S. trailer: Teeth"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt10039344": {
+    "id": "tt10039344",
+    "title": "Countdown",
+    "year": 2019,
+    "runtime": 90,
+    "rating": 5.4,
+    "votes": 54404,
+    "certificate": "PG-13",
+    "plot": "When a nurse downloads an app that claims to predict the moment a person will die, it tells her she only has three days to live. With the clock ticking and a figure haunting her, she must find a way to save her life before time runs out.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Justin Dec"
+    ],
+    "stars": [
+      "Elizabeth Lail",
+      "Jordan Calloway",
+      "Talitha Eliana Bateman",
+      "Peter Facinelli"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzJjODI5ZTQtMTIxNy00MjY0LTlhNDgtNzk0YjZjM2Q1ZDIyXkEyXkFqcGc@._V1_.jpg",
+      "width": 666,
+      "height": 999
+    },
+    "trailer": {
+      "id": "vi2813181721",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt1010271": {
+    "id": "tt1010271",
+    "title": "The Poughkeepsie Tapes",
+    "year": 2007,
+    "runtime": 81,
+    "rating": 5.9,
+    "votes": 32588,
+    "certificate": "R",
+    "plot": "In an abandoned house in Poughkeepsie, New York murder investigators uncover hundreds of tapes showing decades of a serial killer's work.",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "John Erick Dowdle"
+    ],
+    "stars": [
+      "Stacy Chbosky",
+      "Ben Messmer",
+      "Samantha Robson",
+      "Ivar Brogger"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTI0MjgzNzMyOF5BMl5BanBnXkFtZTcwMDM0MzU1MQ@@._V1_.jpg",
+      "width": 585,
+      "height": 801
+    },
+    "trailer": {
+      "id": "vi1555169561",
+      "name": "U.S. trailer: The Poughkeepsie Tapes"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt10329614": {
+    "id": "tt10329614",
+    "title": "Censor",
+    "year": 2021,
+    "runtime": 84,
+    "rating": 5.9,
+    "votes": 23687,
+    "certificate": null,
+    "plot": "After viewing a strangely familiar video nasty, Enid, a film censor, sets out to solve the past mystery of her sister's disappearance, embarking on a quest that dissolves the line between fiction and reality.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Prano Bailey-Bond"
+    ],
+    "stars": [
+      "Niamh Algar",
+      "Michael Smiley",
+      "Nicholas Burns",
+      "Vincent Franklin"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2YwNjM3MGUtYzZmZC00MTY4LTk2YzUtZDJiMDVlMDAwZjI0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1013,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi1975959577",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt1034415": {
+    "id": "tt1034415",
+    "title": "Suspiria",
+    "year": 2018,
+    "runtime": 152,
+    "rating": 6.7,
+    "votes": 106521,
+    "certificate": "R",
+    "plot": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Luca Guadagnino"
+    ],
+    "stars": [
+      "Chloë Grace Moretz",
+      "Tilda Swinton",
+      "Doris Hick",
+      "Malgorzata Bela"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQ2MTIyNjM2MF5BMl5BanBnXkFtZTgwMDE3NDMyNjM@._V1_.jpg",
+      "width": 1328,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi1749334809",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt10449276": {
+    "id": "tt10449276",
+    "title": "Get Away",
+    "year": 2024,
+    "runtime": 86,
+    "rating": 5.3,
+    "votes": 11641,
+    "certificate": "R",
+    "plot": "A family's vacation to a remote getaway takes an unexpected turn when they discover that the island they're on is inhabited by a serial killer.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "directors": [
+      "Steffen Haars"
+    ],
+    "stars": [
+      "Nick Frost",
+      "Aisling Bea",
+      "Sebastian Croft",
+      "Maisie Ayres"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2Y0YmZiN2EtMWMzZi00M2UzLWJlYzAtZDZlMzk2ZDg3Y2FhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 1481
+    },
+    "trailer": {
+      "id": "vi3577988633",
+      "name": "Get Away"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt10548174": {
+    "id": "tt10548174",
+    "title": "28 Years Later",
+    "year": 2025,
+    "runtime": 115,
+    "rating": 6.6,
+    "votes": 227187,
+    "certificate": "R",
+    "plot": "A group of survivors of the rage virus live on a small island. When one of the group leaves the island on a mission into the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors.",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Danny Boyle"
+    ],
+    "stars": [
+      "Jodie Comer",
+      "Aaron Taylor-Johnson",
+      "Ralph Fiennes",
+      "Rocco Haynes"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 1350
+    },
+    "trailer": {
+      "id": "vi2545010713",
+      "name": "Buy Tickets"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt10638522": {
+    "id": "tt10638522",
+    "title": "Talk to Me",
+    "year": 2022,
+    "runtime": 95,
+    "rating": 7.1,
+    "votes": 224726,
+    "certificate": "R",
+    "plot": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Danny Philippou",
+      "Michael Philippou"
+    ],
+    "stars": [
+      "Ari McCarthy",
+      "Hamish Phillips",
+      "Kit Erhart-Bruce",
+      "Sarah Brokensha"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2I2NzJmY2YtYTM3Ni00ZGJhLThkZTItODFhMzhlZjZkMDQ5XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "trailer": {
+      "id": "vi3628712985",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt10919380": {
+    "id": "tt10919380",
+    "title": "Freaky",
+    "year": 2020,
+    "runtime": 102,
+    "rating": 6.4,
+    "votes": 83118,
+    "certificate": "R",
+    "plot": "After swapping bodies with a deranged serial killer, a high-school senior discovers that she has less than 24 hours before the change becomes permanent.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Christopher Landon"
+    ],
+    "stars": [
+      "Vince Vaughn",
+      "Kathryn Newton",
+      "Celeste O'Connor",
+      "Misha Osherovich"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODZmNzJjNjAtOGFhNi00ZjhjLTg5MzgtYjRjNGE0YWE3NDUzXkEyXkFqcGc@._V1_.jpg",
+      "width": 758,
+      "height": 1200
+    },
+    "trailer": {
+      "id": "vi2381037849",
+      "name": "Extended Look Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt1127180": {
+    "id": "tt1127180",
+    "title": "Drag Me to Hell",
+    "year": 2009,
+    "runtime": 99,
+    "rating": 6.6,
+    "votes": 233109,
+    "certificate": "PG-13",
+    "plot": "An ambitious loan officer must find a way to shatter a curse that threatens her soul with damnation.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Sam Raimi"
+    ],
+    "stars": [
+      "Alison Lohman",
+      "Justin Long",
+      "Ruth Livier",
+      "Lorna Raver"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQwNTMyNjc5Ml5BMl5BanBnXkFtZTcwOTI2MTQ0Mg@@._V1_.jpg",
+      "width": 510,
+      "height": 755
+    },
+    "trailer": {
+      "id": "vi3899917081",
+      "name": "Drag Me to Hell: Trailer #1"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt1131734": {
+    "id": "tt1131734",
+    "title": "Jennifer's Body",
+    "year": 2009,
+    "runtime": 102,
+    "rating": 5.6,
+    "votes": 177962,
+    "certificate": "R",
+    "plot": "A newly-possessed high-school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "directors": [
+      "Karyn Kusama"
+    ],
+    "stars": [
+      "Megan Fox",
+      "Amanda Seyfried",
+      "Adam Brody",
+      "Johnny Simmons"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@._V1_.jpg",
+      "width": 446,
+      "height": 660
+    },
+    "trailer": {
+      "id": "vi4062052889",
+      "name": "Jennifer's Body"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt11426228": {
+    "id": "tt11426228",
+    "title": "Spirit Halloween",
+    "year": 2022,
+    "runtime": 87,
+    "rating": 4.6,
+    "votes": 2634,
+    "certificate": "TV-14",
+    "plot": "When a Halloween store opens in a deserted strip-mall, three friends, thinking they've outgrown trick or treating, decide to spend the night locked inside. But their night of spook-filled fun soon turns to outlandish survival.",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Horror"
+    ],
+    "directors": [
+      "David Poag"
+    ],
+    "stars": [
+      "Donovan Colan",
+      "Jaiden J. Smith",
+      "Dylan Martin Frankel",
+      "Marissa Reyes"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTIxMmU0NjQtN2Q0MC00ZjVkLThmYmUtN2RkZmQyNGE1ZDJiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 1800
+    },
+    "trailer": {
+      "id": "vi693355033",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt11426232": {
+    "id": "tt11426232",
+    "title": "Totally Killer",
+    "year": 2023,
+    "runtime": 106,
+    "rating": 6.5,
+    "votes": 70715,
+    "certificate": "R",
+    "plot": "When the infamous \"Sweet Sixteen Killer\" returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Nahnatchka Khan"
+    ],
+    "stars": [
+      "Kiernan Shipka",
+      "Olivia Holt",
+      "Charlie Gillespie",
+      "Lochlyn Munro"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2IwZDI2ZDQtMTU5MC00MDY2LWEwOGYtNGU0ZjNkMzkwMmEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1944,
+      "height": 2880
+    },
+    "trailer": {
+      "id": "vi3018376985",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt1245112": {
+    "id": "tt1245112",
+    "title": "[Rec]²",
+    "year": 2009,
+    "runtime": 85,
+    "rating": 6.5,
+    "votes": 85627,
+    "certificate": "R",
+    "plot": "In order to ascertain the current situation inside, a supposed medical officer and a GEO team step into the quarantined and ill-fated apartment building.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Jaume Balagueró",
+      "Paco Plaza"
+    ],
+    "stars": [
+      "Jonathan D. Mellor",
+      "Manuela Velasco",
+      "Óscar Zafra",
+      "Ariel Casas"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTI4MjQ1MDE1MV5BMl5BanBnXkFtZTcwNzIxMDk0Mw@@._V1_.jpg",
+      "width": 1008,
+      "height": 1476
+    },
+    "trailer": {
+      "id": "vi979024665",
+      "name": "Tráiler [OV]"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt12873562": {
+    "id": "tt12873562",
+    "title": "The Invitation",
+    "year": 2022,
+    "runtime": 105,
+    "rating": 5.3,
+    "votes": 41051,
+    "certificate": "PG-13",
+    "plot": "A woman learns the shocking and bloody truth about her family history while staying at an estate.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Jessica M. Thompson"
+    ],
+    "stars": [
+      "Nathalie Emmanuel",
+      "Thomas Doherty",
+      "Sean Pertwee",
+      "Hugh Skinner"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODJiMTNiN2MtZDAzYy00MjEwLWJhZjYtN2NiYWQyY2IwNjdjXkEyXkFqcGc@._V1_.jpg",
+      "width": 426,
+      "height": 639
+    },
+    "trailer": {
+      "id": "vi2026291737",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt1312221": {
+    "id": "tt1312221",
+    "title": "Frankenstein",
+    "year": 2025,
+    "runtime": 149,
+    "rating": 7.4,
+    "votes": 337337,
+    "certificate": "R",
+    "plot": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Guillermo del Toro"
+    ],
+    "stars": [
+      "Oscar Isaac",
+      "Jacob Elordi",
+      "Christoph Waltz",
+      "Mia Goth"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1012,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi4251961369",
+      "name": "Final Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt13345606": {
+    "id": "tt13345606",
+    "title": "Evil Dead Rise",
+    "year": 2023,
+    "runtime": 96,
+    "rating": 6.5,
+    "votes": 177499,
+    "certificate": "R",
+    "plot": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Lee Cronin"
+    ],
+    "stars": [
+      "Mirabai Pease",
+      "Richard Crouchley",
+      "Anna-Maree Thomas",
+      "Lily Sullivan"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM1ZmViMmYtOGYzZC00YzhmLWE0MTMtMzNjYzcyNjEwYWRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1382,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi2030289945",
+      "name": "Final Review Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt13560574": {
+    "id": "tt13560574",
+    "title": "X",
+    "year": 2022,
+    "runtime": 105,
+    "rating": 6.5,
+    "votes": 228727,
+    "certificate": "R",
+    "plot": "In 1979, a group of young filmmakers set out to make an adult film in a rural Texas farm, but when their reclusive, elderly hosts catch them in the act, the crew find themselves fighting for their lives.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Ti West"
+    ],
+    "stars": [
+      "Mia Goth",
+      "Jenna Ortega",
+      "Brittany Snow",
+      "Kid Cudi"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODUwYTNhMTMtYWQ5Ny00YTdmLWIxOTAtNDczNzVlYzg2NDFkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1013,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi2921579289",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt14852624": {
+    "id": "tt14852624",
+    "title": "Stopmotion",
+    "year": 2023,
+    "runtime": 93,
+    "rating": 5.6,
+    "votes": 11629,
+    "certificate": "R",
+    "plot": "A stop-motion animator struggles to control her demons after the loss of her overbearing mother.",
+    "genres": [
+      "Animation",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Robert Morgan"
+    ],
+    "stars": [
+      "Aisling Franciosi",
+      "Stella Gonet",
+      "Tom York",
+      "Therica Wilson-Read"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDE3NTYwNDYtZDY4MS00MmY1LWIzYzItYTcxMGVlYTI1YjQyXkEyXkFqcGc@._V1_.jpg",
+      "width": 514,
+      "height": 755
+    },
+    "trailer": {
+      "id": "vi743950105",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt15474916": {
+    "id": "tt15474916",
+    "title": "Smile",
+    "year": 2022,
+    "runtime": 115,
+    "rating": 6.5,
+    "votes": 248810,
+    "certificate": "R",
+    "plot": "After witnessing a bizarre, traumatic incident involving a patient, a psychiatrist becomes increasingly convinced she is being threatened by an uncanny entity.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Parker Finn"
+    ],
+    "stars": [
+      "Sosie Bacon",
+      "Jessie T. Usher",
+      "Kyle Gallner",
+      "Robin Weigert"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjFhMzBlNzktMjE2Ni00YTMyLWI2YWUtYmM1N2QxMDQwZmZhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2025,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi1028112921",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt15574270": {
+    "id": "tt15574270",
+    "title": "I Saw the TV Glow",
+    "year": 2024,
+    "runtime": 100,
+    "rating": 5.8,
+    "votes": 48495,
+    "certificate": "PG-13",
+    "plot": "In late-90s suburbia, a lonely teenager meets a girl at school who introduces him to a mysterious late-night T.V. show. As time goes on, however, questions begin to arise about why the show sometimes seems more real than their own lives.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Jane Schoenbrun"
+    ],
+    "stars": [
+      "Justice Smith",
+      "Jack Haven",
+      "Ian Foreman",
+      "Helena Howard"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTA2MGM5M2ItNDBjYi00OWJhLTk1MTMtMGIzMDZlYzg1N2Q3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1354,
+      "height": 2000
+    },
+    "trailer": {
+      "id": "vi216319513",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt15791034": {
+    "id": "tt15791034",
+    "title": "Barbarian",
+    "year": 2022,
+    "runtime": 102,
+    "rating": 7,
+    "votes": 270648,
+    "certificate": "R",
+    "plot": "A woman staying at an Airbnb discovers that the house she has rented is not what it seems.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Zach Cregger"
+    ],
+    "stars": [
+      "Georgina Campbell",
+      "Bill Skarsgård",
+      "Justin Long",
+      "Matthew Patrick Davis"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWQ5MDgwMzMtNWZhMy00Y2Q4LWI5NTAtODA4MDIzYTExOGQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2500,
+      "height": 3703
+    },
+    "trailer": {
+      "id": "vi1819132441",
+      "name": "Get Tickets"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt17526714": {
+    "id": "tt17526714",
+    "title": "The Substance",
+    "year": 2024,
+    "runtime": 141,
+    "rating": 7.2,
+    "votes": 462324,
+    "certificate": "R",
+    "plot": "A fading celebrity takes a black-market drug: a cell-replicating substance that helps her create a younger, better version of herself.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Coralie Fargeat"
+    ],
+    "stars": [
+      "Demi Moore",
+      "Margaret Qualley",
+      "Dennis Quaid",
+      "Edward Hamilton-Clark"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1944,
+      "height": 2844
+    },
+    "trailer": {
+      "id": "vi2758919705",
+      "name": "Watch the Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt1853739": {
+    "id": "tt1853739",
+    "title": "You're Next",
+    "year": 2011,
+    "runtime": 95,
+    "rating": 6.6,
+    "votes": 120653,
+    "certificate": "R",
+    "plot": "When the Davison family comes under attack during their wedding anniversary getaway, the gang of mysterious killers soon learns that one of the victims harbors a secret talent for fighting back.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Adam Wingard"
+    ],
+    "stars": [
+      "Sharni Vinson",
+      "Joe Swanberg",
+      "AJ Bowen",
+      "Nicholas Tucci"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQwODAxMTE1NF5BMl5BanBnXkFtZTcwNTQ0MjY3OQ@@._V1_.jpg",
+      "width": 1328,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi1610393113",
+      "name": "Theatrical Version"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt18925334": {
+    "id": "tt18925334",
+    "title": "Pearl",
+    "year": 2022,
+    "runtime": 103,
+    "rating": 7,
+    "votes": 164365,
+    "certificate": "R",
+    "plot": "In 1918, a young woman on the brink of madness pursues stardom in a desperate attempt to escape the drudgery, isolation, and lovelessness of life on her parents' farm.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Ti West"
+    ],
+    "stars": [
+      "Mia Goth",
+      "David Corenswet",
+      "Tandi Wright",
+      "Matthew Sunderland"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzk0Y2RlZjItZDUzYi00Y2JhLTk5MzMtNjgzYWFmZmUxN2FmXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 2963
+    },
+    "trailer": {
+      "id": "vi3608199705",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt1922777": {
+    "id": "tt1922777",
+    "title": "Sinister",
+    "year": 2012,
+    "runtime": 110,
+    "rating": 6.8,
+    "votes": 322563,
+    "certificate": "R",
+    "plot": "A controversial true-crime writer finds a box of Super 8 home movies in his new home, revealing that the murder case he is currently researching could be the work of an unknown serial killer whose legacy dates back to the 1960s.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Scott Derrickson"
+    ],
+    "stars": [
+      "Ethan Hawke",
+      "Juliet Rylance",
+      "James Ransone",
+      "Fred Thompson"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_.jpg",
+      "width": 1382,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi3469452313",
+      "name": "Redband Version"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt2105044": {
+    "id": "tt2105044",
+    "title": "V/H/S",
+    "year": 2012,
+    "runtime": 116,
+    "rating": 5.8,
+    "votes": 76371,
+    "certificate": "R",
+    "plot": "When a group of misfits is hired by an unknown third party to burglarize a desolate house and acquire a rare VHS tape, they discover more found footage than they bargained for.",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Matt Bettinelli-Olpin",
+      "David Bruckner",
+      "Tyler Gillett",
+      "Justin Martinez"
+    ],
+    "stars": [
+      "Calvin Lee Reeder",
+      "Lane Hughes",
+      "Adam Wingard",
+      "Hannah Fierman"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUwODAxMzMwNF5BMl5BanBnXkFtZTcwMTk3MTQ5Nw@@._V1_.jpg",
+      "width": 680,
+      "height": 1008
+    },
+    "trailer": {
+      "id": "vi212575513",
+      "name": "No. 1"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt2118624": {
+    "id": "tt2118624",
+    "title": "The Final Girls",
+    "year": 2015,
+    "runtime": 91,
+    "rating": 6.5,
+    "votes": 58192,
+    "certificate": "PG-13",
+    "plot": "A young woman grieving the loss of her mother, a famous scream queen from the 1980s, finds herself pulled into the world of her mom's most famous movie. Reunited, the women must fight off the film's maniacal killer.",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Todd Strauss-Schulson"
+    ],
+    "stars": [
+      "Taissa Farmiga",
+      "Malin Akerman",
+      "Adam Devine",
+      "Thomas Middleditch"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI4Nzk2NzAzOV5BMl5BanBnXkFtZTgwNjI1NzY4NjE@._V1_.jpg",
+      "width": 1382,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi1992799001",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt21307994": {
+    "id": "tt21307994",
+    "title": "Skinamarink",
+    "year": 2022,
+    "runtime": 100,
+    "rating": 4.7,
+    "votes": 21893,
+    "certificate": "Not Rated",
+    "plot": "Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Kyle Edward Ball"
+    ],
+    "stars": [
+      "Lucas Paul",
+      "Dali Rose Tetreault",
+      "Ross Paul",
+      "Jaime Hill"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTY5OWUwZTUtMzUwZi00MmUwLThiMGItNWJkODE2MjY4MTkyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1950,
+      "height": 2885
+    },
+    "trailer": {
+      "id": "vi2902181145",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt2184339": {
+    "id": "tt2184339",
+    "title": "The Purge",
+    "year": 2013,
+    "runtime": 85,
+    "rating": 5.8,
+    "votes": 263571,
+    "certificate": "R",
+    "plot": "A wealthy family is held hostage for harboring the target of a murderous syndicate during the Purge, a 12-hour period in which any and all crime is legal.",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "James DeMonaco"
+    ],
+    "stars": [
+      "Ethan Hawke",
+      "Lena Headey",
+      "Max Burkholder",
+      "Adelaide Kane"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQzNTcwODEyM15BMl5BanBnXkFtZTcwMjM1MDI0OQ@@._V1_.jpg",
+      "width": 1293,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi1893967385",
+      "name": "Version 1"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt21874760": {
+    "id": "tt21874760",
+    "title": "The Coffee Table",
+    "year": 2022,
+    "runtime": 89,
+    "rating": 6.7,
+    "votes": 15197,
+    "certificate": "16+",
+    "plot": "Jesús struggles with resentment and insecurity as new parenthood strains his bond with María, while a seemingly ordinary purchase unleashes a nightmare that turns domestic life into a suffocating trap.",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "directors": [
+      "Caye Casas"
+    ],
+    "stars": [
+      "David Pareja",
+      "Estefanía de los Santos",
+      "Josep Maria Riera",
+      "Claudia Riera"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjhmNjAwZjctZWRiYi00MzgzLWFhNGItYzBiZmVhNzU3YzVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1372,
+      "height": 1964
+    },
+    "trailer": {
+      "id": "vi869910041",
+      "name": "Trailer [OV]"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt22048412": {
+    "id": "tt22048412",
+    "title": "MaXXXine",
+    "year": 2024,
+    "runtime": 103,
+    "rating": 6.2,
+    "votes": 91310,
+    "certificate": "R",
+    "plot": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
+    "genres": [
+      "Crime",
+      "Horror"
+    ],
+    "directors": [
+      "Ti West"
+    ],
+    "stars": [
+      "Charley Rowan McCain",
+      "Simon Prast",
+      "Mia Goth",
+      "Deborah Geffner"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_.jpg",
+      "width": 8100,
+      "height": 12000
+    },
+    "trailer": {
+      "id": "vi337888793",
+      "name": "Maxxxine - Domestic Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt22075376": {
+    "id": "tt22075376",
+    "title": "Milk & Serial",
+    "year": 2024,
+    "runtime": 62,
+    "rating": 6.6,
+    "votes": 6410,
+    "certificate": "Not Rated",
+    "plot": "A surprise birthday prank takes a turn for the worse when a popular social media duo must face the reality of the terrifying aftermath.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Curry Barker"
+    ],
+    "stars": [
+      "Curry Barker",
+      "Cooper Tomlinson",
+      "Adlih Alvarado",
+      "Jonnathon Cripple"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmVhMDQyNWItMmEzOC00MTI2LThiZmItZjgxZWEwMjk5MDQyXkEyXkFqcGc@._V1_.jpg",
+      "width": 2729,
+      "height": 4096
+    },
+    "trailer": null,
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt2231554": {
+    "id": "tt2231554",
+    "title": "Grave Encounters 2",
+    "year": 2012,
+    "runtime": 98,
+    "rating": 5.1,
+    "votes": 30702,
+    "certificate": "Not Rated",
+    "plot": "A film student who is obsessed with the movie Grave Encounters sets out with his friends to visit the psychiatric hospital depicted in the original film.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "John Poliquin"
+    ],
+    "stars": [
+      "Richard Harmon",
+      "Shawn C. Phillips",
+      "Jennica Fulton",
+      "Jeffrey Bowyer-Chapman"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM2NTIzMDQ0NV5BMl5BanBnXkFtZTcwOTQ3NTM0OA@@._V1_.jpg",
+      "width": 562,
+      "height": 832
+    },
+    "trailer": {
+      "id": "vi1693099033",
+      "name": "Theatrical Version"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt23137390": {
+    "id": "tt23137390",
+    "title": "Immaculate",
+    "year": 2024,
+    "runtime": 89,
+    "rating": 5.8,
+    "votes": 63195,
+    "certificate": "R",
+    "plot": "Cecilia, a woman of devout faith, is warmly welcomed to the picture-perfect Italian countryside where she is offered a new role at an illustrious convent. But it becomes clear to Cecilia that her new home harbors dark and horrifying secrets.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Michael Mohan"
+    ],
+    "stars": [
+      "Sydney Sweeney",
+      "Álvaro Morte",
+      "Simona Tabasco",
+      "Benedetta Porcaroli"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWEzYjYyMjQtNTJjYi00ZDQ5LWE4N2MtNWY2ZTgxODNhYWM4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1383,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi1616365337",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt2321549": {
+    "id": "tt2321549",
+    "title": "The Babadook",
+    "year": 2014,
+    "runtime": 94,
+    "rating": 6.8,
+    "votes": 272861,
+    "certificate": "Not Rated",
+    "plot": "A single mother and her child fall into a deep well of paranoia when an eerie children's book titled \"Mister Babadook\" manifests in their home.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Jennifer Kent"
+    ],
+    "stars": [
+      "Essie Davis",
+      "Noah Wiseman",
+      "Daniel Henshall",
+      "Hayley McElhinney"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_.jpg",
+      "width": 678,
+      "height": 999
+    },
+    "trailer": {
+      "id": "vi430943001",
+      "name": "Festival Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt23468450": {
+    "id": "tt23468450",
+    "title": "Longlegs",
+    "year": 2024,
+    "runtime": 101,
+    "rating": 6.5,
+    "votes": 232625,
+    "certificate": "R",
+    "plot": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Osgood Perkins"
+    ],
+    "stars": [
+      "Maika Monroe",
+      "Nicolas Cage",
+      "Blair Underwood",
+      "Alicia Witt"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 3600,
+      "height": 5334
+    },
+    "trailer": {
+      "id": "vi505857561",
+      "name": "The End Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt2388715": {
+    "id": "tt2388715",
+    "title": "Oculus",
+    "year": 2013,
+    "runtime": 104,
+    "rating": 6.6,
+    "votes": 151481,
+    "certificate": "R",
+    "plot": "A recently released inmate from a mental asylum learns from his sister that the murder he was convicted of committing were actually orchestrated by a supernatural entity, the Lasser Glass mirror.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Mike Flanagan"
+    ],
+    "stars": [
+      "Karen Gillan",
+      "Brenton Thwaites",
+      "Katee Sackhoff",
+      "Rory Cochrane"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzE1NzM4MjEyNV5BMl5BanBnXkFtZTgwMjYzMjMzMTE@._V1_.jpg",
+      "width": 1382,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi2517019161",
+      "name": "Trailer #2"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt26470109": {
+    "id": "tt26470109",
+    "title": "Oddity",
+    "year": 2024,
+    "runtime": 98,
+    "rating": 6.7,
+    "votes": 62941,
+    "certificate": "R",
+    "plot": "A psychic medium attempts to uncover the truth behind her sister's murder at the site of the crime.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Damian McCarthy"
+    ],
+    "stars": [
+      "Carolyn Bracken",
+      "Gwilym Lee",
+      "Steve Wall",
+      "Joe Rooney"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWU5Yjc0N2MtZjhlYS00MTM3LWI5YWUtZDg5MzcxZjEyZWJmXkEyXkFqcGc@._V1_.jpg",
+      "width": 691,
+      "height": 1024
+    },
+    "trailer": {
+      "id": "vi3469526553",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt26581740": {
+    "id": "tt26581740",
+    "title": "Weapons",
+    "year": 2025,
+    "runtime": 128,
+    "rating": 7.4,
+    "votes": 399106,
+    "certificate": "R",
+    "plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Zach Cregger"
+    ],
+    "stars": [
+      "Julia Garner",
+      "Josh Brolin",
+      "Alden Ehrenreich",
+      "Scarlett Sher"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1638,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi2231289881",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt26657236": {
+    "id": "tt26657236",
+    "title": "Backrooms",
+    "year": 2026,
+    "runtime": 126,
+    "rating": 6.8,
+    "votes": 197683,
+    "certificate": "R",
+    "plot": "After a therapist's patient disappears into a dimension beyond reality, she must venture into the unknown to save him.",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Kane Parsons"
+    ],
+    "stars": [
+      "Chiwetel Ejiofor",
+      "Renate Reinsve",
+      "Mark Duplass",
+      "Finn Bennett"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 2025,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi1178061593",
+      "name": "Trailer 1"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt26753003": {
+    "id": "tt26753003",
+    "title": "Trap",
+    "year": 2024,
+    "runtime": 105,
+    "rating": 5.8,
+    "votes": 172249,
+    "certificate": "PG-13",
+    "plot": "A father and his teen daughter attend a pop concert only to realize they've entered the center of a dark and sinister event.",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "M. Night Shyamalan"
+    ],
+    "stars": [
+      "Josh Hartnett",
+      "Ariel Donoghue",
+      "Saleka Shyamalan",
+      "Alison Pill"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzJiN2UyZjgtMjQ3MS00MDhhLTg5ZDItZmVjMTU3MTcwNzE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 2764,
+      "height": 4096
+    },
+    "trailer": {
+      "id": "vi152618521",
+      "name": "Book Tickets"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt2724064": {
+    "id": "tt2724064",
+    "title": "Sharknado",
+    "year": 2013,
+    "runtime": 86,
+    "rating": 3.3,
+    "votes": 57262,
+    "certificate": "Not Rated",
+    "plot": "When a freak hurricane swamps Los Angeles, nature's deadliest killer rules sea, land, and air as thousands of sharks terrorize the waterlogged populace.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Anthony C. Ferrante"
+    ],
+    "stars": [
+      "Ian Ziering",
+      "Tara Reid",
+      "John Heard",
+      "Cassandra Scerbo"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTNkOTA0NjYtM2VjOC00ZmYzLWI1NzQtMjY4NTU2MGNkZmU0XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4125
+    },
+    "trailer": {
+      "id": "vi194955033",
+      "name": "Sharknado"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt27489557": {
+    "id": "tt27489557",
+    "title": "Abigail",
+    "year": 2024,
+    "runtime": 109,
+    "rating": 6.5,
+    "votes": 123979,
+    "certificate": "R",
+    "plot": "After a group of criminals kidnap the ballerina daughter of a powerful underworld figure, they retreat to an isolated mansion, unaware that they're locked inside with no normal little girl.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Matt Bettinelli-Olpin",
+      "Tyler Gillett"
+    ],
+    "stars": [
+      "Melissa Barrera",
+      "Dan Stevens",
+      "Alisha Weir",
+      "William Catlett"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmUxMDRiNjQtYjE0NS00OWZkLTlhZjktYjQ1MmNjNDlhNDdkXkEyXkFqcGc@._V1_.jpg",
+      "width": 3158,
+      "height": 5000
+    },
+    "trailer": {
+      "id": "vi2072823321",
+      "name": "US Trailer #2"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt2752772": {
+    "id": "tt2752772",
+    "title": "Sinister 2",
+    "year": 2015,
+    "runtime": 97,
+    "rating": 5.3,
+    "votes": 68535,
+    "certificate": "R",
+    "plot": "A young mother and her twin sons move into a rural house that's marked for death.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Ciarán Foy"
+    ],
+    "stars": [
+      "James Ransone",
+      "Shannyn Sossamon",
+      "Robert Daniel Sloan",
+      "Dartanian Sloan"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM3MTQ5NjA0OV5BMl5BanBnXkFtZTgwMzg2OTYyNTE@._V1_.jpg",
+      "width": 1350,
+      "height": 2000
+    },
+    "trailer": {
+      "id": "vi2718937369",
+      "name": "International Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt28249919": {
+    "id": "tt28249919",
+    "title": "Presence",
+    "year": 2024,
+    "runtime": 84,
+    "rating": 6.1,
+    "votes": 45242,
+    "certificate": "R",
+    "plot": "A family becomes convinced they are not alone after moving into their new home in the suburbs.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Steven Soderbergh"
+    ],
+    "stars": [
+      "Lucy Liu",
+      "Chris Sullivan",
+      "Callina Liang",
+      "Eddy Maday"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWRmNzM1YjktM2YyMi00M2YwLWE2YjMtNjgwNTQ3MGU3MzczXkEyXkFqcGc@._V1_.jpg",
+      "width": 877,
+      "height": 1302
+    },
+    "trailer": {
+      "id": "vi3913140505",
+      "name": "Official Trailer #2"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt29268110": {
+    "id": "tt29268110",
+    "title": "Smile 2",
+    "year": 2024,
+    "runtime": 127,
+    "rating": 6.7,
+    "votes": 153295,
+    "certificate": "R",
+    "plot": "About to embark on a world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her past.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Parker Finn"
+    ],
+    "stars": [
+      "Naomi Scott",
+      "Rosemarie DeWitt",
+      "Lukas Gage",
+      "Miles Gutierrez-Riley"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTg5OTMyMGMtYzMwNC00NDMyLWE0OGUtMTQ1ODcwM2FjOTM4XkEyXkFqcGc@._V1_.jpg",
+      "width": 2025,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi11782425",
+      "name": "Final Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt2965466": {
+    "id": "tt2965466",
+    "title": "Last Shift",
+    "year": 2014,
+    "runtime": 88,
+    "rating": 5.8,
+    "votes": 28497,
+    "certificate": "R",
+    "plot": "A rookie cop is tasked with taking the last shift at a police station before it is permanently closed, but it turns into a living nightmare.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Anthony DiBlasi"
+    ],
+    "stars": [
+      "Juliana Harkavy",
+      "Josh Mikel",
+      "Hank Stone",
+      "J. LaRose"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2IyOTc2NWQtNzZhMC00ZGE1LTg1MDAtNGE2NWFmOWRiOTVjXkEyXkFqcGc@._V1_.jpg",
+      "width": 607,
+      "height": 900
+    },
+    "trailer": {
+      "id": "vi270054169",
+      "name": "Last Shift"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt32246771": {
+    "id": "tt32246771",
+    "title": "Bring Her Back",
+    "year": 2025,
+    "runtime": 104,
+    "rating": 7.1,
+    "votes": 140941,
+    "certificate": "R",
+    "plot": "A brother and sister uncover a terrifying ritual at the secluded home of their new foster mother.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Danny Philippou",
+      "Michael Philippou"
+    ],
+    "stars": [
+      "Billy Barratt",
+      "Sally Hawkins",
+      "Mischa Heywood",
+      "Jonah Wren Phillips"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 5400,
+      "height": 8000
+    },
+    "trailer": {
+      "id": "vi76728345",
+      "name": "International Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt32332404": {
+    "id": "tt32332404",
+    "title": "Keeper",
+    "year": 2025,
+    "runtime": 99,
+    "rating": 5.5,
+    "votes": 22949,
+    "certificate": "R",
+    "plot": "A romantic anniversary trip to a secluded cabin turns sinister when a dark presence reveals itself, forcing a couple to confront the property's haunting past.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Osgood Perkins"
+    ],
+    "stars": [
+      "Tatiana Maslany",
+      "Rossif Sutherland",
+      "Birkett Turton",
+      "Eden Weiss"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWEwYmY5NGYtOWFkNy00YTAxLWJmNzMtZWM0M2Y1NjcxMDMyXkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 4444
+    },
+    "trailer": {
+      "id": "vi2273167385",
+      "name": "Official Trailer #2"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt3235888": {
+    "id": "tt3235888",
+    "title": "It Follows",
+    "year": 2014,
+    "runtime": 100,
+    "rating": 6.8,
+    "votes": 304416,
+    "certificate": "R",
+    "plot": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "David Robert Mitchell"
+    ],
+    "stars": [
+      "Maika Monroe",
+      "Keir Gilchrist",
+      "Olivia Luccardi",
+      "Lili Sepe"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGZiYWRiYjAtODU0NS00YzAzLTk2MzQtZGVlMzVjM2M3MGQ3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1012,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi1876930073",
+      "name": "International Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt32916228": {
+    "id": "tt32916228",
+    "title": "Hell House LLC: Lineage",
+    "year": 2025,
+    "runtime": 108,
+    "rating": 4.1,
+    "votes": 2865,
+    "certificate": null,
+    "plot": "After a near-death experience, Vanessa Shepherd faces nightmares in Abaddon. As mysterious deaths occur around her, she discovers her connection to the Abaddon Hotel, Carmichael Manor, and decades of unexplained murders.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Stephen Cognetti"
+    ],
+    "stars": [
+      "Elizabeth Vermilyea",
+      "Searra Sawka",
+      "Mike Sutton",
+      "Joe Bandelli"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNThkYjVjZDUtYzhhOS00M2I0LWI4ZTgtYTFjMDZmMDNlOGM2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1350,
+      "height": 1800
+    },
+    "trailer": {
+      "id": "vi1980680217",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt33978029": {
+    "id": "tt33978029",
+    "title": "Ready or Not 2: Here I Come",
+    "year": 2026,
+    "runtime": 108,
+    "rating": 6.5,
+    "votes": 74395,
+    "certificate": "R",
+    "plot": "Grace MacCaullay battles old wounds with her estranged sister Faith MacCaullay while rival occult dynasties hunt them through a deadly contest that promises power, survival, and betrayal before dawn.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Matt Bettinelli-Olpin",
+      "Tyler Gillett"
+    ],
+    "stars": [
+      "Samara Weaving",
+      "Kathryn Newton",
+      "Elijah Wood",
+      "Sarah Michelle Gellar"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTM3N2EyMTEtNDhkMi00ZjNiLWI0MWUtOGViMjExODY3YTJhXkEyXkFqcGc@._V1_.jpg",
+      "width": 4050,
+      "height": 6000
+    },
+    "trailer": {
+      "id": "vi1945881369",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt3416742": {
+    "id": "tt3416742",
+    "title": "What We Do in the Shadows",
+    "year": 2014,
+    "runtime": 86,
+    "rating": 7.6,
+    "votes": 215753,
+    "certificate": "R",
+    "plot": "Viago, Deacon, and Vladislav are vampires who are struggling with the mundane aspects of modern life, like paying rent, keeping up with the chore wheel, trying to get into nightclubs, and overcoming flatmate conflicts.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Jemaine Clement",
+      "Taika Waititi"
+    ],
+    "stars": [
+      "Jemaine Clement",
+      "Taika Waititi",
+      "Cori Gonzalez-Macuer",
+      "Jonny Brugh"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGFhNjkyZDYtOTc4Yi00OWM4LTg4ZTktNjIzNDA5NGE5YTYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 550,
+      "height": 800
+    },
+    "trailer": {
+      "id": "vi2303242009",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt3515878": {
+    "id": "tt3515878",
+    "title": "Do Not Enter",
+    "year": 2026,
+    "runtime": 91,
+    "rating": 4.3,
+    "votes": 5298,
+    "certificate": "R",
+    "plot": "A group of explorers investigate an old abandoned hotel, encountering a strange supernatural being and a competing group searching for a legendary hidden treasure.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Marc Klasfeld"
+    ],
+    "stars": [
+      "Adeline Rudolph",
+      "Nicholas Hamilton",
+      "Jake Manley",
+      "Laurence O'Fuarain"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODJkYzMxNGUtNmU4OS00NTFmLTg0NWMtMDM0YTI0YmU4MGQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi4108962585",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt3520418": {
+    "id": "tt3520418",
+    "title": "We Are Still Here",
+    "year": 2015,
+    "runtime": 84,
+    "rating": 5.7,
+    "votes": 21438,
+    "certificate": "Not Rated",
+    "plot": "In the cold, wintery fields of New England, a lonely old house wakes up every thirty years - and demands a sacrifice.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Ted Geoghegan"
+    ],
+    "stars": [
+      "Andrew Sensenig",
+      "Barbara Crampton",
+      "Larry Fessenden",
+      "Lisa Marie"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQwMzgzMjczOV5BMl5BanBnXkFtZTgwNDk2MTUxNTE@._V1_.jpg",
+      "width": 1728,
+      "height": 2560
+    },
+    "trailer": {
+      "id": "vi409055257",
+      "name": "We Are Still Here"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt35298123": {
+    "id": "tt35298123",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "year": 2026,
+    "runtime": 112,
+    "rating": 7.2,
+    "votes": 9695,
+    "certificate": "R",
+    "plot": "A director making a slasher sequel becomes obsessed with casting the original film's 'final girl,' leading both women into psychological and sexual chaos.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "directors": [
+      "Jane Schoenbrun"
+    ],
+    "stars": [
+      "Jack Haven",
+      "Hannah Einbinder",
+      "Jasmin Savoy Brown",
+      "Aren Buchholz"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+    },
+    "trailer": {
+      "id": "vi4178365209",
+      "name": "Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt35519455": {
+    "id": "tt35519455",
+    "title": "It Ends",
+    "year": 2025,
+    "runtime": 89,
+    "rating": 5.7,
+    "votes": 6869,
+    "certificate": "R",
+    "plot": "Friends on a late-night food run become trapped on an infinite highway with otherworldly terrors lurking beyond. Confined in their Jeep Cherokee, they must decide whether to accept their fate or attempt escape.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Alexander Ullom"
+    ],
+    "stars": [
+      "Phinehas Yoon",
+      "Akira Jackson",
+      "Noah Toth",
+      "Mitchell Cole"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI5MDU4YjktNDkwYi00ODk4LThiY2ItMDE5ZjdhZjIzNzkzXkEyXkFqcGc@._V1_.jpg",
+      "width": 8100,
+      "height": 12000
+    },
+    "trailer": {
+      "id": "vi709151513",
+      "name": "It Ends | Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt35538033": {
+    "id": "tt35538033",
+    "title": "Resident Evil",
+    "year": 2026,
+    "runtime": 90,
+    "rating": null,
+    "votes": 0,
+    "certificate": "R",
+    "plot": "Follows a hapless courier tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive.",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Zach Cregger"
+    ],
+    "stars": [
+      "Austin Abrams",
+      "Paul Walter Hauser",
+      "Zach Cherry",
+      "Kali Reis"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODIwYTk4MWYtMGUxYS00OWUzLTg5MDYtNzg5MmYyNzcyNThkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 1350
+    },
+    "trailer": {
+      "id": "vi3829713689",
+      "name": "Resident Evil | Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt35672862": {
+    "id": "tt35672862",
+    "title": "Hokum",
+    "year": 2026,
+    "runtime": 107,
+    "rating": 6.7,
+    "votes": 62442,
+    "certificate": "R",
+    "plot": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Damian McCarthy"
+    ],
+    "stars": [
+      "Adam Scott",
+      "Peter Coonan",
+      "David Wilmot",
+      "Austin Amelio"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_.jpg",
+      "width": 2430,
+      "height": 3600
+    },
+    "trailer": {
+      "id": "vi3173698329",
+      "name": "Final Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt35682658": {
+    "id": "tt35682658",
+    "title": "Infirmary",
+    "year": 2026,
+    "runtime": 87,
+    "rating": 6.7,
+    "votes": 40,
+    "certificate": null,
+    "plot": "A guard vanished on his first night at an old psych hospital in 2023. His bodycam footage shows unexplainable incidents that continue to baffle investigators.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Nicholas Pineda"
+    ],
+    "stars": [
+      "Paul Syre Lee",
+      "Mark Anthony Williams",
+      "Danielle Kennedy",
+      "Corinna Wagner-Smith"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjZlZTY2NjMtNTEwZi00NDYxLTk5NTEtOTIxNmU3ZTA3OGNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 5500,
+      "height": 8100
+    },
+    "trailer": {
+      "id": "vi848742937",
+      "name": "Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt36615506": {
+    "id": "tt36615506",
+    "title": "Project MKHEXE",
+    "year": 2025,
+    "runtime": 113,
+    "rating": 5,
+    "votes": 1505,
+    "certificate": null,
+    "plot": "Tim films his brother Sean's funeral after his suicide, then uncovers Sean's fixation with a nonexistent online urban legend about a failed government mind control experiment.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Gerald Robert Waddell"
+    ],
+    "stars": [
+      "Ignacyo Matynia",
+      "Jordan Knapp",
+      "Will Jandro",
+      "Jennifer Lynn O'Hara"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzUzZTUxMWEtZjU4NC00ZTEzLWEyNjYtNjllMzA4MWMxNTU5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1050,
+      "height": 1500
+    },
+    "trailer": null,
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt37281055": {
+    "id": "tt37281055",
+    "title": "Buddy",
+    "year": 2026,
+    "runtime": 96,
+    "rating": 7.1,
+    "votes": 6310,
+    "certificate": "R",
+    "plot": "A brave girl and her friends must escape a kids television show.",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Casper Kelly"
+    ],
+    "stars": [
+      "Cristin Milioti",
+      "Delaney Quinn",
+      "Topher Grace",
+      "Keegan-Michael Key"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWRkNWJhNjYtY2FkZC00YjFlLWFjMjUtZGFhMjc5MGYyODE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1944,
+      "height": 2880
+    },
+    "trailer": {
+      "id": "vi3451898393",
+      "name": "Buddy: Teaser"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt37287335": {
+    "id": "tt37287335",
+    "title": "Obsession",
+    "year": 2025,
+    "runtime": 109,
+    "rating": 7.8,
+    "votes": 365510,
+    "certificate": "R",
+    "plot": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "directors": [
+      "Curry Barker"
+    ],
+    "stars": [
+      "Michael Johnston",
+      "Inde Navarrette",
+      "Cooper Tomlinson",
+      "Megan Lawless"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 1600
+    },
+    "trailer": {
+      "id": "vi2176961305",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt37671737": {
+    "id": "tt37671737",
+    "title": "Buffet Infinity",
+    "year": 2025,
+    "runtime": 93,
+    "rating": 6.3,
+    "votes": 1296,
+    "certificate": "Not Rated",
+    "plot": "Echoing the Canadian comedy classic SCTV, crosscutting between original, low-budget TV ads to tell the sinister tale of two restaurants battling it out in the fictional town of Westridge County.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "directors": [
+      "Simon Glassman"
+    ],
+    "stars": [
+      "Kevin Singh",
+      "Ahmed Ahmed",
+      "Brandon Vanderwall",
+      "Allison Bench"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjJhMmQzMWEtZjU2OS00YmU0LTlmOGUtZmI2ZDdiZTkxZjhhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1227,
+      "height": 1800
+    },
+    "trailer": {
+      "id": "vi3014052377",
+      "name": "Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt3811906": {
+    "id": "tt3811906",
+    "title": "Malignant",
+    "year": 2021,
+    "runtime": 111,
+    "rating": 6.2,
+    "votes": 123131,
+    "certificate": "R",
+    "plot": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "James Wan"
+    ],
+    "stars": [
+      "Annabelle Wallis",
+      "Maddie Hasson",
+      "George Young",
+      "Michole Briana White"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTU3YjhmMTQtNmM5Yi00MDI2LTk0M2UtZGY5ZTNkYjIzNDE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2764,
+      "height": 4096
+    },
+    "trailer": {
+      "id": "vi2873802777",
+      "name": "Official Trailer 2"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt39319437": {
+    "id": "tt39319437",
+    "title": "Buzzkill",
+    "year": 2026,
+    "runtime": null,
+    "rating": null,
+    "votes": 0,
+    "certificate": "TV-MA",
+    "plot": "Follows a group of sorority sisters who end up trapped with a murderer. Nora's tipsy memories hold the clues to figuring out who is killing their friends, but she can only remember them when she's drunk.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "directors": [
+      "Jem Garrard"
+    ],
+    "stars": [
+      "Brec Bassinger",
+      "Siena Agudong",
+      "Frances Sholto-Douglas",
+      "Jacques Adriaanse"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ZWFmNTktMjExYy00ZTA5LWI3MjgtNTMxOTAxYWJkYmI4XkEyXkFqcGc@._V1_.jpg",
+      "width": 2158,
+      "height": 2694
+    },
+    "trailer": {
+      "id": "vi2056702489",
+      "name": "Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt4062536": {
+    "id": "tt4062536",
+    "title": "Green Room",
+    "year": 2015,
+    "runtime": 95,
+    "rating": 6.9,
+    "votes": 155645,
+    "certificate": "R",
+    "plot": "A punk rock band is forced to fight for survival after witnessing something they shouldn't have at a neo-Nazi skinhead bar.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Jeremy Saulnier"
+    ],
+    "stars": [
+      "Anton Yelchin",
+      "Imogen Poots",
+      "Alia Shawkat",
+      "Patrick Stewart"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_.jpg",
+      "width": 1400,
+      "height": 2074
+    },
+    "trailer": {
+      "id": "vi261665817",
+      "name": "IMDb Commentary With 'Green Room' Director Jeremy Saulnier"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt4160708": {
+    "id": "tt4160708",
+    "title": "Don't Breathe",
+    "year": 2016,
+    "runtime": 88,
+    "rating": 7.1,
+    "votes": 335318,
+    "certificate": "R",
+    "plot": "Three delinquents break into the house of a war veteran who is blind to steal his money. However, they discover that the man is not as defenseless as he seems.",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Fede Alvarez"
+    ],
+    "stars": [
+      "Stephen Lang",
+      "Jane Levy",
+      "Dylan Minnette",
+      "Daniel Zovatto"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjAxOTJkMmEtNjg4MC00ODk3LTkwYmUtNjM3YzE5YTk1YTFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1055,
+      "height": 1582
+    },
+    "trailer": {
+      "id": "vi1002615833",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt4255304": {
+    "id": "tt4255304",
+    "title": "The Void",
+    "year": 2016,
+    "runtime": 90,
+    "rating": 5.9,
+    "votes": 48437,
+    "certificate": "Not Rated",
+    "plot": "Shortly after delivering a patient to an understaffed hospital, a police officer experiences strange and violent occurrences seemingly linked to a group of mysterious hooded figures.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Jeremy Gillespie",
+      "Steven Kostanski"
+    ],
+    "stars": [
+      "Aaron Poole",
+      "Kenneth Welsh",
+      "Ellen Wong",
+      "Kathleen Munroe"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDMwYTU4YjItYjI1Yy00NDY2LTlmMDMtNTQ4OTM5MjZiMzBiXkEyXkFqcGc@._V1_.jpg",
+      "width": 616,
+      "height": 910
+    },
+    "trailer": {
+      "id": "vi795784729",
+      "name": "Trailer #2"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt4263482": {
+    "id": "tt4263482",
+    "title": "The Witch",
+    "year": 2015,
+    "runtime": 92,
+    "rating": 7,
+    "votes": 359623,
+    "certificate": "R",
+    "plot": "An isolated Puritan family in 1630s New England comes unraveled by the forces of witchcraft and possession.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Robert Eggers"
+    ],
+    "stars": [
+      "Anya Taylor-Joy",
+      "Ralph Ineson",
+      "Kate Dickie",
+      "Julian Richings"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_.jpg",
+      "width": 4050,
+      "height": 6000
+    },
+    "trailer": {
+      "id": "vi1994241305",
+      "name": "Trailer Commentary: Robert Eggers, Director of  'The Witch'"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt4267026": {
+    "id": "tt4267026",
+    "title": "Hell House LLC",
+    "year": 2015,
+    "runtime": 93,
+    "rating": 6.4,
+    "votes": 37521,
+    "certificate": "Not Rated",
+    "plot": "Five years after an unexplained malfunction causes the death of 15 tour-goers and staff on the opening night of a Halloween haunted house tour, a documentary crew travels back to the scene of the tragedy to find out what really happened.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Stephen Cognetti"
+    ],
+    "stars": [
+      "Gore Abrams",
+      "Alice Bahlke",
+      "Danny Bellini",
+      "Theodore Bouloukos"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDU2YTZhZTEtNjQ2Mi00ZTlkLWFhNTctNDAyNGNjNTVlYzdkXkEyXkFqcGc@._V1_.jpg",
+      "width": 637,
+      "height": 955
+    },
+    "trailer": {
+      "id": "vi2740893209",
+      "name": "HELL HOUSE LLC Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt4381236": {
+    "id": "tt4381236",
+    "title": "The Greasy Strangler",
+    "year": 2016,
+    "runtime": 93,
+    "rating": 5.8,
+    "votes": 9762,
+    "certificate": "Unrated",
+    "plot": "Ronnie runs a Disco walking tour with his son, Brayden. When a sexy woman takes the tour, it begins a competition between father and son for her love. It also signals the arrival of an oily strangler who stalks the streets at night.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "directors": [
+      "Jim Hosking"
+    ],
+    "stars": [
+      "Michael St. Michaels",
+      "Sky Elobar",
+      "Elizabeth De Razzo",
+      "Gil Gex"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAyMzkwMzc0M15BMl5BanBnXkFtZTgwMTQwMDg2OTE@._V1_.jpg",
+      "width": 503,
+      "height": 755
+    },
+    "trailer": null,
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt4589218": {
+    "id": "tt4589218",
+    "title": "Five Nights at Freddy's",
+    "year": 2023,
+    "runtime": 109,
+    "rating": 5.4,
+    "votes": 143448,
+    "certificate": "PG-13",
+    "plot": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his five nights on the job, he realizes that something is wrong with the pizzeria and pretty soon finds the truth about its animatronics.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Emma Tammi"
+    ],
+    "stars": [
+      "Josh Hutcherson",
+      "Piper Rubio",
+      "Elizabeth Lail",
+      "Matthew Lillard"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzFkMDE2ZmEtOWMwNy00MWM2LThlNjMtZWQzNWY5MTJjZjcxXkEyXkFqcGc@._V1_.jpg",
+      "width": 3158,
+      "height": 5000
+    },
+    "trailer": {
+      "id": "vi889046809",
+      "name": "'Five Nights at Freddy's' Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt4642970": {
+    "id": "tt4642970",
+    "title": "Llamageddon",
+    "year": 2015,
+    "runtime": 69,
+    "rating": 3.9,
+    "votes": 2064,
+    "certificate": null,
+    "plot": "A killer llama from outer space crash lands on Earth and brings death and destruction to everyone in its path.",
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "Howie Dewin"
+    ],
+    "stars": [
+      "Louie the Llama",
+      "Pinki Brainweis",
+      "James Earl Cox III",
+      "L. Lean Burnside"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU5NjY4OTM3OV5BMl5BanBnXkFtZTgwNDg5NDM5NjM@._V1_.jpg",
+      "width": 1200,
+      "height": 1600
+    },
+    "trailer": {
+      "id": "vi2414066969",
+      "name": "Llamageddon"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt4786282": {
+    "id": "tt4786282",
+    "title": "Lights Out",
+    "year": 2016,
+    "runtime": 81,
+    "rating": 6.3,
+    "votes": 154205,
+    "certificate": "PG-13",
+    "plot": "A supernatural entity reemerges to terrorize a family when the lights go out at night.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "David F. Sandberg"
+    ],
+    "stars": [
+      "Teresa Palmer",
+      "Gabriel Bateman",
+      "Maria Bello",
+      "Billy Burke"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGUyNmQxNjQtNjU1OS00YTExLWFjMGUtNWVhN2Y0MGE2ZmZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 3443,
+      "height": 5100
+    },
+    "trailer": {
+      "id": "vi3014047513",
+      "name": "Trailer #2"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt5022702": {
+    "id": "tt5022702",
+    "title": "Hush",
+    "year": 2016,
+    "runtime": 82,
+    "rating": 6.6,
+    "votes": 171897,
+    "certificate": "R",
+    "plot": "A deaf mute European-American writer in her 20's who retreated to the woods to live in solitude must fight for her life in silence when a masked serial killer appears at her window.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Mike Flanagan"
+    ],
+    "stars": [
+      "John Gallagher Jr.",
+      "Kate Siegel",
+      "Michael Trucco",
+      "Samantha Sloyan"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjQ0YTU4OTQtMTU3Zi00OTdlLTkzN2EtZjlmOTZhNjIwN2VkXkEyXkFqcGc@._V1_.jpg",
+      "width": 4050,
+      "height": 5999
+    },
+    "trailer": {
+      "id": "vi508282393",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt5040012": {
+    "id": "tt5040012",
+    "title": "Nosferatu",
+    "year": 2024,
+    "runtime": 132,
+    "rating": 7.1,
+    "votes": 276462,
+    "certificate": "R",
+    "plot": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Robert Eggers"
+    ],
+    "stars": [
+      "Lily-Rose Depp",
+      "Nicholas Hoult",
+      "Bill Skarsgård",
+      "Aaron Taylor-Johnson"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 1600
+    },
+    "trailer": {
+      "id": "vi1732429337",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt5073642": {
+    "id": "tt5073642",
+    "title": "Color Out of Space",
+    "year": 2019,
+    "runtime": 111,
+    "rating": 6.1,
+    "votes": 66123,
+    "certificate": "Unrated",
+    "plot": "A secluded farm is struck by a strange meteorite which has apocalyptic consequences for the family living there and possibly the world.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Richard Stanley"
+    ],
+    "stars": [
+      "Nicolas Cage",
+      "Joely Richardson",
+      "Madeleine Arthur",
+      "Elliot Knight"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmNlNDMwNzUtYzJlOC00MjRkLTkyNjYtZjY3NTk1NjZlZGMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 1600
+    },
+    "trailer": {
+      "id": "vi735493913",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt5308322": {
+    "id": "tt5308322",
+    "title": "Happy Death Day",
+    "year": 2017,
+    "runtime": 96,
+    "rating": 6.6,
+    "votes": 188997,
+    "certificate": "PG-13",
+    "plot": "A college student must relive the day of her murder over and over again, in a loop that will end only when she discovers her killer's identity.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Christopher Landon"
+    ],
+    "stars": [
+      "Jessica Rothe",
+      "Israel Broussard",
+      "Ruby Modine",
+      "Charles Aitken"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTAxNGQwMjEtNjdjNy00NmQwLTkwYTEtNGIwZWJjZjU5M2FmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1070,
+      "height": 1600
+    },
+    "trailer": {
+      "id": "vi592492825",
+      "name": "Now Playing"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt5700672": {
+    "id": "tt5700672",
+    "title": "Train to Busan",
+    "year": 2016,
+    "runtime": 118,
+    "rating": 7.6,
+    "votes": 314991,
+    "certificate": "R",
+    "plot": "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Yeon Sang-ho"
+    ],
+    "stars": [
+      "Gong Yoo",
+      "Jung Yu-mi",
+      "Ma Dong-seok",
+      "Kim Su-an"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODA3OTM4NWQtMjU1OS00NzA2LTlhZDAtYjU2YjM5MWUxNTdiXkEyXkFqcGc@._V1_.jpg",
+      "width": 2764,
+      "height": 4096
+    },
+    "trailer": {
+      "id": "vi2925251353",
+      "name": "10th Anniversary Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt5886046": {
+    "id": "tt5886046",
+    "title": "Escape Room",
+    "year": 2019,
+    "runtime": 99,
+    "rating": 6.4,
+    "votes": 162223,
+    "certificate": "PG-13",
+    "plot": "Six strangers find themselves in a maze of deadly mystery rooms and must use their wits to survive.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Adam Robitel"
+    ],
+    "stars": [
+      "Taylor Russell",
+      "Logan Miller",
+      "Jay Ellis",
+      "Tyler Labine"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQ2NDMwMTY3MF5BMl5BanBnXkFtZTgwNDg5OTc1NjM@._V1_.jpg",
+      "width": 540,
+      "height": 800
+    },
+    "trailer": {
+      "id": "vi1755167257",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt5918982": {
+    "id": "tt5918982",
+    "title": "Possessor",
+    "year": 2020,
+    "runtime": 103,
+    "rating": 6.5,
+    "votes": 55051,
+    "certificate": "R",
+    "plot": "An agent works for a secretive organization that uses brain-implant technology to inhabit other people's bodies - ultimately driving them to commit assassinations for high-paying clients.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Brandon Cronenberg"
+    ],
+    "stars": [
+      "Andrea Riseborough",
+      "Christopher Abbott",
+      "Jennifer Jason Leigh",
+      "Rossif Sutherland"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzY5NTc0NTktM2RjYS00M2I2LWFlNzctYjY5OGU4OTVjYjY4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1036,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi179487001",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.743Z"
+  },
+  "tt6081670": {
+    "id": "tt6081670",
+    "title": "Possum",
+    "year": 2018,
+    "runtime": 85,
+    "rating": 5.8,
+    "votes": 12692,
+    "certificate": "TV-14",
+    "plot": "After returning to his childhood home, a disgraced children's puppeteer is forced to confront his wicked stepfather and the secrets that have tortured his entire life.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Matthew Holness"
+    ],
+    "stars": [
+      "Sean Harris",
+      "Alun Armstrong",
+      "Andy Blithe",
+      "Ryan Enever"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjA1NTMzM2QtYTMxMi00ZTQ3LTg2ZjQtMDU1OWVhZGNkNjFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1013,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi2498871577",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt6566576": {
+    "id": "tt6566576",
+    "title": "Fear Street: Part One - 1994",
+    "year": 2021,
+    "runtime": 107,
+    "rating": 6.2,
+    "votes": 112304,
+    "certificate": "R",
+    "plot": "A circle of teenage friends accidentally encounter the ancient evil responsible for a series of brutal murders that have plagued their town for over 300 years. Welcome to Shadyside.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Leigh Janiak"
+    ],
+    "stars": [
+      "Kiana Madeira",
+      "Olivia Scott Welch",
+      "Benjamin Flores Jr.",
+      "Julia Rehwald"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWViZDRiMGYtZTlmMS00ZDM2LWIzNWUtYmNjYzBiYjJkNTk3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1013,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi3826696217",
+      "name": "FEAR STREET PART 1: 1994 | Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt6857112": {
+    "id": "tt6857112",
+    "title": "Us",
+    "year": 2019,
+    "runtime": 116,
+    "rating": 6.8,
+    "votes": 399933,
+    "certificate": "R",
+    "plot": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California. At night, four strangers break into Adelaide's childhood home. The family is shocked to find out that the intruders look like them.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Jordan Peele"
+    ],
+    "stars": [
+      "Lupita Nyong'o",
+      "Winston Duke",
+      "Elisabeth Moss",
+      "Tim Heidecker"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzhkMjFkN2YtODU2Ni00YWYwLWExN2MtOWNjZmQxM2U4YTM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1895,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi1333246489",
+      "name": "New Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt6998518": {
+    "id": "tt6998518",
+    "title": "Mandy",
+    "year": 2018,
+    "runtime": 121,
+    "rating": 6.5,
+    "votes": 99656,
+    "certificate": "Not Rated",
+    "plot": "The enchanted lives of a couple in a secluded forest are brutally shattered by a nightmarish hippie cult and their demon-biker henchmen, propelling a man into a spiraling, surreal rampage of vengeance.",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "directors": [
+      "Panos Cosmatos"
+    ],
+    "stars": [
+      "Nicolas Cage",
+      "Andrea Riseborough",
+      "Linus Roache",
+      "Ned Dennehy"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGI1NTNhNzctOTk4OC00N2RjLTkwYTgtOGMwMWFjMzM5ZjNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 600,
+      "height": 859
+    },
+    "trailer": {
+      "id": "vi3034626841",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt7144666": {
+    "id": "tt7144666",
+    "title": "The Black Phone",
+    "year": 2021,
+    "runtime": 103,
+    "rating": 6.9,
+    "votes": 271824,
+    "certificate": "R",
+    "plot": "After being abducted and locked in a basement, a boy starts receiving calls on a disconnected phone from the killer's previous victims.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Scott Derrickson"
+    ],
+    "stars": [
+      "Mason Thames",
+      "Madeleine McGraw",
+      "Ethan Hawke",
+      "Jeremy Davies"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjFhZTcxOTktMzllMS00MzIzLWJhODEtZDU5YTFkNzRjZWQyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1895,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi601801241",
+      "name": "Book Tickets"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt7772580": {
+    "id": "tt7772580",
+    "title": "The Perfection",
+    "year": 2018,
+    "runtime": 90,
+    "rating": 6.2,
+    "votes": 54369,
+    "certificate": "TV-MA",
+    "plot": "When troubled musical prodigy Charlotte seeks out Elizabeth, the new star pupil of her former school, the encounter sends both musicians down a sinister path with shocking consequences.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Richard Shepard"
+    ],
+    "stars": [
+      "Marie Maskell",
+      "Allison Williams",
+      "Christina Jastrzembska",
+      "Glynis Davies"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA3NzkzMDUxODBeQTJeQWpwZ15BbWU4MDM0ODc5ODcz._V1_.jpg",
+      "width": 1382,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi3697589529",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt7798634": {
+    "id": "tt7798634",
+    "title": "Ready or Not",
+    "year": 2019,
+    "runtime": 95,
+    "rating": 6.9,
+    "votes": 265616,
+    "certificate": "R",
+    "plot": "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Matt Bettinelli-Olpin",
+      "Tyler Gillett"
+    ],
+    "stars": [
+      "Samara Weaving",
+      "Adam Brody",
+      "Mark O'Brien",
+      "Henry Czerny"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTViMDA4YjgtZDQ4NC00ZDk2LTg0MWItOTc4MTkwMmVkZWRmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1006,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi703381273",
+      "name": "Ready or Not"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt7917178": {
+    "id": "tt7917178",
+    "title": "Caveat",
+    "year": 2020,
+    "runtime": 88,
+    "rating": 6,
+    "votes": 16369,
+    "certificate": "Not Rated",
+    "plot": "A drifter with missing memories takes a strange care-taking job on an isolated island, only to find himself chained inside a decaying house with a dangerous woman and secrets that may involve him.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Damian McCarthy"
+    ],
+    "stars": [
+      "Ben Caplan",
+      "Johnny French",
+      "Leila Sykes",
+      "Inma Pavon"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDRjNzA2YjktNTk1OC00NTM1LTg1ZDgtYjRhM2Y4MGI5ODhkXkEyXkFqcGc@._V1_.jpg",
+      "width": 7200,
+      "height": 10800
+    },
+    "trailer": {
+      "id": "vi897958681",
+      "name": "Official Trailer 2"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.627Z"
+  },
+  "tt7984734": {
+    "id": "tt7984734",
+    "title": "The Lighthouse",
+    "year": 2019,
+    "runtime": 109,
+    "rating": 7.3,
+    "votes": 309537,
+    "certificate": "R",
+    "plot": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Robert Eggers"
+    ],
+    "stars": [
+      "Robert Pattinson",
+      "Willem Dafoe",
+      "Valeriia Karaman",
+      "Logan Hawkes"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1013,
+      "height": 1500
+    },
+    "trailer": {
+      "id": "vi195542809",
+      "name": "Official Trailer 2"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt8110652": {
+    "id": "tt8110652",
+    "title": "Bodies Bodies Bodies",
+    "year": 2022,
+    "runtime": 94,
+    "rating": 6.1,
+    "votes": 91920,
+    "certificate": "R",
+    "plot": "When a group of rich 20-somethings plan a hurricane party at a remote family mansion, a party game turns deadly.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "directors": [
+      "Halina Reijn"
+    ],
+    "stars": [
+      "Amandla Stenberg",
+      "Maria Bakalova",
+      "Myha'la",
+      "Rachel Sennott"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmFlMTFlNjMtYzFlNy00ZjI4LTkwYmItZjA4MzFmMDJlOWQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2025,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi691782169",
+      "name": "Official Trailer 2"
+    },
+    "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt8119752": {
+    "id": "tt8119752",
+    "title": "Gonjiam: Haunted Asylum",
+    "year": 2018,
+    "runtime": 95,
+    "rating": 6.5,
+    "votes": 26660,
+    "certificate": "Not Rated",
+    "plot": "The crew of a horror web series travels to an abandoned asylum for a live broadcast. It soon encounters much more than expected as it moves deeper inside the nightmarish old building.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Jung Bum-shik"
+    ],
+    "stars": [
+      "Oh Ah-yeon",
+      "Wi Ha-joon",
+      "Yoo Je-Yoon",
+      "Park Ji-ah"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWI1Yjk5ZWEtZjcyNS00NmZkLWFkNzUtMDA5YmNhODA1ZDVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1364,
+      "height": 2046
+    },
+    "trailer": {
+      "id": "vi1511897113",
+      "name": "Gonjiam: Haunted Asylum"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  },
+  "tt8244784": {
+    "id": "tt8244784",
+    "title": "The Hunt",
+    "year": 2020,
+    "runtime": 90,
+    "rating": 6.6,
+    "votes": 158387,
+    "certificate": "R",
+    "plot": "Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.",
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Craig Zobel"
+    ],
+    "stars": [
+      "Betty Gilpin",
+      "Hilary Swank",
+      "Ike Barinholtz",
+      "Wayne Duvall"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjVmMDY4NGMtZTk3Yi00Zjg1LTkxOWYtNGFmNTdjNzYzNDkwXkEyXkFqcGc@._V1_.jpg",
+      "width": 3158,
+      "height": 5000
+    },
+    "trailer": {
+      "id": "vi189054745",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt8760708": {
+    "id": "tt8760708",
+    "title": "M3GAN",
+    "year": 2022,
+    "runtime": 102,
+    "rating": 6.3,
+    "votes": 184865,
+    "certificate": "PG-13",
+    "plot": "When robotics engineer Gemma becomes the guardian of her orphaned niece, Cady, she thinks her new invention, a robotic AI, will be a good companion. However, M3GAN begins to behave in unexpected and shocking ways.",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Gerard Johnstone"
+    ],
+    "stars": [
+      "Allison Williams",
+      "Violet McGraw",
+      "Ronny Chieng",
+      "Amie Donald"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjU1ZWMxYTUtNzQ1ZC00ZTcxLTg0NTMtMzY1ZmQyZjhmYjMyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1579,
+      "height": 2500
+    },
+    "trailer": {
+      "id": "vi4277912857",
+      "name": "Official Trailer 2"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt9425078": {
+    "id": "tt9425078",
+    "title": "Verotika",
+    "year": 2019,
+    "runtime": 90,
+    "rating": 2,
+    "votes": 2194,
+    "certificate": "Not Rated",
+    "plot": "A surreal and bloody trilogy of erotic horror stories culled from Glenn Danzig's comics.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Glenn Danzig"
+    ],
+    "stars": [
+      "Ashley Wisdom",
+      "Rachel Alig",
+      "Alice Tate",
+      "Kayden Kross"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzVlN2Q1M2ItNTgzYi00ZDIyLWI5NzQtZmFmMjExNWVkZjhkXkEyXkFqcGc@._V1_.jpg",
+      "width": 418,
+      "height": 640
+    },
+    "trailer": null,
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt9701940": {
+    "id": "tt9701940",
+    "title": "Fear Street: Part Two - 1978",
+    "year": 2021,
+    "runtime": 109,
+    "rating": 6.7,
+    "votes": 92552,
+    "certificate": "R",
+    "plot": "Shadyside, 1978. School's out for summer and the activities at Camp Nightwing are about to begin. But when another Shadysider is possessed with the urge to kill, the fun in the sun becomes a gruesome fight for survival.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Leigh Janiak"
+    ],
+    "stars": [
+      "Sadie Sink",
+      "Emily Rudd",
+      "Ryan Simpkins",
+      "McCabe Slye"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWUxNGRjZTgtNTYxNC00YTA4LTkwODktOWEwZDMwNzc4NDkzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 2222
+    },
+    "trailer": {
+      "id": "vi387956761",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.180Z"
+  },
+  "tt9741310": {
+    "id": "tt9741310",
+    "title": "Slaxx",
+    "year": 2020,
+    "runtime": 77,
+    "rating": 5.4,
+    "votes": 4961,
+    "certificate": "TV-MA",
+    "plot": "When a possessed pair of jeans begins to kill the staff of a trendy clothing store, it is up to Libby, an idealistic young salesclerk, to stop its bloody rampage.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "directors": [
+      "Elza Kephart"
+    ],
+    "stars": [
+      "Romane Denis",
+      "Brett Donahue",
+      "Sehar Bhojani",
+      "Kenny Wong"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGI0MGYwMGItZmYwNS00OTQ2LTk5YzItMWJiMmUwNTJiMWI0XkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 1083
+    },
+    "trailer": {
+      "id": "vi3466838041",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt9764362": {
+    "id": "tt9764362",
+    "title": "The Menu",
+    "year": 2022,
+    "runtime": 107,
+    "rating": 7.1,
+    "votes": 515040,
+    "certificate": "R",
+    "plot": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Mark Mylod"
+    ],
+    "stars": [
+      "Ralph Fiennes",
+      "Anya Taylor-Joy",
+      "Nicholas Hoult",
+      "Hong Chau"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2Q0YWE1MjktODJlMi00NTRiLWI2ZTctZTAxNjkyODVjM2EyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1334,
+      "height": 2000
+    },
+    "trailer": {
+      "id": "vi1283638553",
+      "name": "Get Tickets"
+    },
+    "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt9844522": {
+    "id": "tt9844522",
+    "title": "Escape Room: Tournament of Champions",
+    "year": 2021,
+    "runtime": 88,
+    "rating": 5.8,
+    "votes": 69781,
+    "certificate": "PG-13",
+    "plot": "Six people unwillingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive. Joining forces with two of the original survivors, they soon discover they've all played the game before.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Adam Robitel"
+    ],
+    "stars": [
+      "Taylor Russell",
+      "Logan Miller",
+      "Deborah Ann Woll",
+      "Thomas Cocquerel"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWNlMjU3NGQtYTEwZC00NDE3LWFmMTgtZTEzNjA1OGZiZjI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2024,
+      "height": 3000
+    },
+    "trailer": {
+      "id": "vi2211430425",
+      "name": "Official Trailer"
+    },
+    "fetchedAt": "2026-09-14T02:34:35.466Z"
+  }
+}

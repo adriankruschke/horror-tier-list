@@ -1,0 +1,32 @@
+---
+import Base from '../layouts/Base.astro';
+import YearHero from '../components/YearHero.astro';
+import TierBoard from '../components/TierBoard.astro';
+import Watchlist from '../components/Watchlist.astro';
+import Awards from '../components/Awards.astro';
+import { years, CURRENT_YEAR, lightboxData, type Year } from '../lib/site';
+
+export function getStaticPaths() {
+  return years.map((data) => ({ params: { year: String(data.year) }, props: { data } }));
+}
+
+const { data } = Astro.props as { data: Year };
+const inProgress = data.year === CURRENT_YEAR && data.films.some((f) => !f.tier);
+const rated = data.films.filter((f) => f.tier);
+---
+
+<Base title={String(data.year)} activeYear={data.year} films={lightboxData(data.films)}>
+  <YearHero data={data} inProgress={inProgress} />
+
+  {
+    inProgress && rated.length === 0 && (
+      <p class="empty">No verdicts yet.</p>
+    )
+  }
+
+  {rated.length > 0 && <TierBoard films={rated} />}
+
+  {data.awards.length > 0 && <Awards awards={data.awards} year={data.year} />}
+
+  {inProgress && <Watchlist films={data.films} />}
+</Base>

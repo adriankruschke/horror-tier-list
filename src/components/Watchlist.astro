@@ -1,0 +1,51 @@
+---
+import { TIERS, type Film } from '../lib/site';
+
+interface Props {
+  films: Film[];
+}
+const { films } = Astro.props;
+const tierIndex = (f: Film) => (f.tier ? TIERS.findIndex((t) => t.key === f.tier) : 99);
+const watched = films.filter((f) => f.tier).length;
+---
+
+<section class="ledger" aria-labelledby="ledger-h">
+  <header class="ledger__head">
+    <h2 id="ledger-h" class="section-h">The Pile</h2>
+    <p class="ledger__count"><b>{watched}</b> / {films.length} watched</p>
+  </header>
+
+  <div class="counter" aria-hidden="true">
+    {
+      [...films]
+        .sort((a, b) => tierIndex(a) - tierIndex(b))
+        .map((f) => <span class={f.tier ? `tier-bg--${f.tier}` : ''} />)
+    }
+  </div>
+
+  <div class="ledger__scroll">
+    <table class="ledger__table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Title</th>
+          <th scope="col">Year</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          films.map((f, i) => (
+            <tr class={f.tier ? 'is-watched' : ''}>
+              <td class="ledger__n">{String(i + 1).padStart(3, '0')}</td>
+              <td>
+                <button class="ledger__title" type="button" data-film={f.key} aria-haspopup="dialog">
+                  {f.name}
+                </button>
+              </td>
+              <td>{f.imdb?.year ?? '—'}</td>            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</section>

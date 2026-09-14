@@ -1,0 +1,59 @@
+---
+import Base from '../layouts/Base.astro';
+import { years, CURRENT_YEAR, href, poster, lightboxData } from '../lib/site';
+
+// Keys are prefixed by year: the same film can sit in different tiers in different years.
+const films = Object.fromEntries(
+  years.flatMap((y) => Object.entries(lightboxData(y.films)).map(([k, v]) => [`${y.year}-${k}`, v])),
+);
+---
+
+<Base films={films}>
+  <section class="vault-intro">
+    <p class="osd"><span class="osd__play">■ STOP</span><span>SELECT A TAPE</span></p>
+    <h1 class="vault-h">Every October,<br /><span>a stack of horror</span><br />gets judged.</h1>
+  </section>
+
+  <ol class="vault">
+    {
+      years.map((y) => {
+        const rated = y.films.filter((f) => f.tier);
+        const best = rated.filter((f) => f.tier === 'S');
+        const live = y.year === CURRENT_YEAR && y.films.some((f) => !f.tier);
+        const shelf = (best.length ? best : y.films).slice(0, 8);
+        return (
+          <li class="vault__tape">
+            <a class="vault__year" href={href(`${y.year}/`)} data-text={y.year}>
+              {y.year}
+            </a>
+            <div class="vault__meta">
+              <p>
+                {live ? (
+                  <>
+                    <span class="rec">● REC</span> {rated.length}/{y.films.length} watched
+                  </>
+                ) : (
+                  <>{rated.length} titles ranked · {best.length} in S tier</>
+                )}
+              </p>
+              <ul class="vault__shelf">
+                {shelf.map((f) =>
+                  f.imdb?.image ? (
+                    <li>
+                      <button class="vault__poster" type="button" data-film={`${y.year}-${f.key}`} aria-label={f.title}>
+                        <img src={poster(f.imdb.image.url, 160)} alt="" width="80" height="120" loading="lazy" />
+                      </button>
+                    </li>
+                  ) : null,
+                )}
+              </ul>
+              <a class="vault__go" href={href(`${y.year}/`)}>
+                {live ? 'Open the pile →' : 'See the tier list →'}
+              </a>
+            </div>
+          </li>
+        );
+      })
+    }
+  </ol>
+</Base>

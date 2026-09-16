@@ -3107,6 +3107,38 @@
     },
     "fetchedAt": "2026-09-14T02:34:34.627Z"
   },
+  "tt36586020": {
+    "id": "tt36586020",
+    "title": "Other Mommy",
+    "year": 2026,
+    "runtime": 93,
+    "rating": null,
+    "votes": 0,
+    "certificate": "R",
+    "plot": "Bela, an 8-year-old girl living in a home with marital problems, confronts a sinister entity that comes out of her closet. The presence, who she calls \"Other Mommy,\" becomes increasingly threatening to her and her family.",
+    "genres": [
+      "Horror"
+    ],
+    "directors": [
+      "Rob Savage"
+    ],
+    "stars": [
+      "Jessica Chastain",
+      "Jay Duplass",
+      "Arabella Olivia Clark",
+      "Dichen Lachman"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWU2MzZlNmItYzVmYi00Y2Y4LWI4NTktNTg3NDE0MGE5NGRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 1350
+    },
+    "trailer": {
+      "id": "vi2325400089",
+      "name": "Trailer 2"
+    },
+    "fetchedAt": "2026-09-16T12:43:58.025Z"
+  },
   "tt36615506": {
     "id": "tt36615506",
     "title": "Project MKHEXE",

@@ -5,11 +5,29 @@
     "gid": "295087431",
     "entries": [
       {
+        "name": "10 Cloverfield Lane",
+        "imdbId": "tt1179933",
+        "tier": null,
+        "streaming": null,
+        "runtime": 103,
+        "watchedOn": null,
+        "notes": null
+      },
+      {
         "name": "28 Years Later",
         "imdbId": "tt10548174",
         "tier": null,
         "streaming": "Netflix",
         "runtime": 115,
+        "watchedOn": null,
+        "notes": null
+      },
+      {
+        "name": "An American Werewolf in London",
+        "imdbId": "tt0082010",
+        "tier": null,
+        "streaming": null,
+        "runtime": 97,
         "watchedOn": null,
         "notes": null
       },
@@ -59,6 +77,15 @@
         "notes": null
       },
       {
+        "name": "Candyman",
+        "imdbId": "tt0103919",
+        "tier": null,
+        "streaming": null,
+        "runtime": 99,
+        "watchedOn": null,
+        "notes": null
+      },
+      {
         "name": "Caveat",
         "imdbId": "tt7917178",
         "tier": null,
@@ -100,6 +127,15 @@
         "tier": null,
         "streaming": "Prime Video",
         "runtime": 91,
+        "watchedOn": null,
+        "notes": null
+      },
+      {
+        "name": "Doctor Sleep",
+        "imdbId": "tt5606664",
+        "tier": null,
+        "streaming": null,
+        "runtime": 152,
         "watchedOn": null,
         "notes": null
       },
@@ -212,6 +248,15 @@
         "notes": null
       },
       {
+        "name": "Planet Terror",
+        "imdbId": "tt1077258",
+        "tier": null,
+        "streaming": null,
+        "runtime": 105,
+        "watchedOn": null,
+        "notes": null
+      },
+      {
         "name": "Possession",
         "imdbId": "tt0082933",
         "tier": null,
@@ -266,6 +311,15 @@
         "notes": null
       },
       {
+        "name": "The Fly",
+        "imdbId": "tt0091064",
+        "tier": null,
+        "streaming": null,
+        "runtime": 96,
+        "watchedOn": null,
+        "notes": null
+      },
+      {
         "name": "The Hunt",
         "imdbId": "tt8244784",
         "tier": null,
@@ -316,6 +370,15 @@
         "tier": null,
         "streaming": "Peacock, YouTube",
         "runtime": 107,
+        "watchedOn": null,
+        "notes": null
+      },
+      {
+        "name": "The Omen",
+        "imdbId": "tt0075005",
+        "tier": null,
+        "streaming": null,
+        "runtime": 111,
         "watchedOn": null,
         "notes": null
       },

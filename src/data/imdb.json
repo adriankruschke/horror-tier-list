@@ -66,6 +66,39 @@
     },
     "fetchedAt": "2026-09-14T02:34:35.935Z"
   },
+  "tt0075005": {
+    "id": "tt0075005",
+    "title": "The Omen",
+    "year": 1976,
+    "runtime": 111,
+    "rating": 7.5,
+    "votes": 147800,
+    "certificate": "R",
+    "plot": "An American ambassador to Britain and his wife may be raising the Antichrist.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "directors": [
+      "Richard Donner"
+    ],
+    "stars": [
+      "Gregory Peck",
+      "Lee Remick",
+      "Harvey Stephens",
+      "David Warner"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTgxNjY0OTEtYWExOC00OWJiLWEzY2ItNzNjYTY0YjhjNjlhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1957,
+      "height": 2949
+    },
+    "trailer": {
+      "id": "vi2750873881",
+      "name": "The Omen (1976)"
+    },
+    "fetchedAt": "2026-09-16T16:31:04.563Z"
+  },
   "tt0076162": {
     "id": "tt0076162",
     "title": "House",
@@ -264,6 +297,39 @@
       "name": "The Shining"
     },
     "fetchedAt": "2026-09-14T02:34:34.895Z"
+  },
+  "tt0082010": {
+    "id": "tt0082010",
+    "title": "An American Werewolf in London",
+    "year": 1981,
+    "runtime": 97,
+    "rating": 7.5,
+    "votes": 136281,
+    "certificate": "R",
+    "plot": "Two American college students are on a walking tour of Britain when they are attacked by a werewolf whose existence is consistently denied by the locals.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "directors": [
+      "John Landis"
+    ],
+    "stars": [
+      "David Naughton",
+      "Jenny Agutter",
+      "Joe Belcher",
+      "Griffin Dunne"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWYyNmMwMTUtZjE2OC00YWQzLWJmMzctNzhmMDI1OTQwNzdhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1861,
+      "height": 2918
+    },
+    "trailer": {
+      "id": "vi1958592281",
+      "name": "An American Werewolf in London"
+    },
+    "fetchedAt": "2026-09-16T16:31:04.563Z"
   },
   "tt0082418": {
     "id": "tt0082418",
@@ -665,6 +731,40 @@
     },
     "fetchedAt": "2026-09-14T02:34:35.180Z"
   },
+  "tt0091064": {
+    "id": "tt0091064",
+    "title": "The Fly",
+    "year": 1986,
+    "runtime": 96,
+    "rating": 7.6,
+    "votes": 227390,
+    "certificate": "R",
+    "plot": "A botched experiment transmutes a man into a monstrous insect.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "directors": [
+      "David Cronenberg"
+    ],
+    "stars": [
+      "Jeff Goldblum",
+      "Geena Davis",
+      "John Getz",
+      "Joy Boushel"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTBlNTliNTItY2VhNS00MjA5LTllYzItMmQyNGRjYTAyZWQxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1600,
+      "height": 2400
+    },
+    "trailer": {
+      "id": "vi3631351577",
+      "name": "The Fly (1986)"
+    },
+    "fetchedAt": "2026-09-16T16:31:04.563Z"
+  },
   "tt0093177": {
     "id": "tt0093177",
     "title": "Hellraiser",
@@ -895,6 +995,39 @@
       "name": "Trailer"
     },
     "fetchedAt": "2026-09-14T02:34:36.308Z"
+  },
+  "tt0103919": {
+    "id": "tt0103919",
+    "title": "Candyman",
+    "year": 1992,
+    "runtime": 99,
+    "rating": 6.8,
+    "votes": 110491,
+    "certificate": "R",
+    "plot": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Bernard Rose"
+    ],
+    "stars": [
+      "Virginia Madsen",
+      "Xander Berkeley",
+      "Tony Todd",
+      "Kasi Lemmons"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmZhN2NhOTEtMmVhZC00NWM5LWE4ODgtZGUwMDQxOGViNjY4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1987,
+      "height": 2952
+    },
+    "trailer": {
+      "id": "vi3418095897",
+      "name": "Candyman"
+    },
+    "fetchedAt": "2026-09-16T16:31:04.563Z"
   },
   "tt0105643": {
     "id": "tt0105643",
@@ -1306,6 +1439,41 @@
     },
     "fetchedAt": "2026-09-14T02:34:35.935Z"
   },
+  "tt1077258": {
+    "id": "tt1077258",
+    "title": "Planet Terror",
+    "year": 2007,
+    "runtime": 105,
+    "rating": 7,
+    "votes": 234743,
+    "certificate": "R",
+    "plot": "After an experimental bio-weapon is released, turning thousands into zombie-like creatures, it's up to a rag-tag group of survivors to stop the infected and those behind its release.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Robert Rodriguez"
+    ],
+    "stars": [
+      "Rose McGowan",
+      "Freddy Rodríguez",
+      "Josh Brolin",
+      "Marley Shelton"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmEzZTAxNDQtN2ZmMy00NGNlLWI3NDYtNGI3ZTlkNWU1NWZhXkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 1440
+    },
+    "trailer": {
+      "id": "vi1427479577",
+      "name": "Planet Terror"
+    },
+    "fetchedAt": "2026-09-16T16:31:04.563Z"
+  },
   "tt10919380": {
     "id": "tt10919380",
     "title": "Freaky",
@@ -1474,6 +1642,41 @@
       "name": "Official Trailer"
     },
     "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt1179933": {
+    "id": "tt1179933",
+    "title": "10 Cloverfield Lane",
+    "year": 2016,
+    "runtime": 103,
+    "rating": 7.2,
+    "votes": 389479,
+    "certificate": "PG-13",
+    "plot": "A young woman is held in an underground bunker by a man who insists that a hostile event has left the surface of the Earth uninhabitable.",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "directors": [
+      "Dan Trachtenberg"
+    ],
+    "stars": [
+      "John Goodman",
+      "Mary Elizabeth Winstead",
+      "John Gallagher Jr.",
+      "Douglas M. Griffin"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_.jpg",
+      "width": 831,
+      "height": 1231
+    },
+    "trailer": {
+      "id": "vi2229122329",
+      "name": "Trailer #2"
+    },
+    "fetchedAt": "2026-09-16T16:31:04.562Z"
   },
   "tt1245112": {
     "id": "tt1245112",
@@ -3774,6 +3977,41 @@
       "name": "Now Playing"
     },
     "fetchedAt": "2026-09-14T02:34:35.935Z"
+  },
+  "tt5606664": {
+    "id": "tt5606664",
+    "title": "Doctor Sleep",
+    "year": 2019,
+    "runtime": 152,
+    "rating": 7.3,
+    "votes": 248201,
+    "certificate": "R",
+    "plot": "Years following the events of The Shining (1980), a now-adult Dan Torrance must protect a young girl with similar powers from a cult known as The True Knot, who prey on children with powers to remain immortal.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "directors": [
+      "Mike Flanagan"
+    ],
+    "stars": [
+      "Ewan McGregor",
+      "Rebecca Ferguson",
+      "Kyliegh Curran",
+      "Cliff Curtis"
+    ],
+    "image": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGUyNTg0NWItODdkZS00YWY0LTljNjItMDYwMTI1ZmZkMjExXkEyXkFqcGc@._V1_.jpg",
+      "width": 1382,
+      "height": 2048
+    },
+    "trailer": {
+      "id": "vi212254489",
+      "name": "Theatrical Trailer"
+    },
+    "fetchedAt": "2026-09-16T16:31:04.563Z"
   },
   "tt5700672": {
     "id": "tt5700672",
